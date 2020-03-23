@@ -3,3 +3,7 @@
         Header unset Cookie
         Header unset Set-Cookie
 </FilesMatch>
+
+AddType text/html .shtml
+AddHandler server-parsed .shtml
+Options Indexes FollowSymLinks Includes
