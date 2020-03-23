@@ -1,0 +1,5 @@
+<FilesMatch "\.(js|css|jpg|png|jpeg|gif|xml|json|txt|pdf|mov|avi|otf|woff|ico|swf)$">
+        RequestHeader unset Cookie
+        Header unset Cookie
+        Header unset Set-Cookie
+</FilesMatch>
