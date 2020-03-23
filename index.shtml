@@ -15,7 +15,7 @@
 <div class="banner_text_iner text-center">
 <h2>Think <span>Creative Turn</span> </h2>
 <h3>Ideas Into Life</h3>
-<a href="index.html#" class="btn_1">learn more <i class="ti-angle-right"></i> </a>
+<a href="index.shtml#" class="btn_1">learn more <i class="ti-angle-right"></i> </a>
 </div>
 </div>
 </div>
@@ -117,7 +117,7 @@ hero of your story</h2>
 above fourth</h4>
 <p>Meat abundantly life made fly years there whose beginning crea unto beast sixth herb
 their bring. Evening fruitful god you spir evning itself land you of of own brought </p>
-<a href="index.html#" class="btn_1">learn more <i class="ti-angle-right"></i> </a>
+<a href="index.shtml#" class="btn_1">learn more <i class="ti-angle-right"></i> </a>
 </div>
 </div>
 </div>
@@ -505,12 +505,12 @@ Fifth shall wont signs, can seasons green days gathered great</p>
 <div class="single_team_member">
 <img src="img/team_1.png" alt="">
 <div class="single_team_text">
-<h3><a href="index.html#"> Jhosef Williams</a></h3>
+<h3><a href="index.shtml#"> Jhosef Williams</a></h3>
 <p>Web developer</p>
 <div class="team_member_social_icon">
-<a href="index.html#">facebok</a>
-<a href="index.html#">twitter</a>
-<a href="index.html#">skype</a>
+<a href="index.shtml#">facebok</a>
+<a href="index.shtml#">twitter</a>
+<a href="index.shtml#">skype</a>
 </div>
 </div>
 </div>
@@ -519,12 +519,12 @@ Fifth shall wont signs, can seasons green days gathered great</p>
 <div class="single_team_member">
 <img src="img/team_2.png" alt="">
 <div class="single_team_text">
-<h3><a href="index.html#">Daniel Hancock</a></h3>
+<h3><a href="index.shtml#">Daniel Hancock</a></h3>
 <p>Web developer</p>
 <div class="team_member_social_icon">
-<a href="index.html#">facebok</a>
-<a href="index.html#">twitter</a>
-<a href="index.html#">skype</a>
+<a href="index.shtml#">facebok</a>
+<a href="index.shtml#">twitter</a>
+<a href="index.shtml#">skype</a>
 </div>
 </div>
 </div>
@@ -533,12 +533,12 @@ Fifth shall wont signs, can seasons green days gathered great</p>
 <div class="single_team_member">
 <img src="img//team_3.png" alt="">
 <div class="single_team_text">
-<h3><a href="index.html#">Bernard Perales</a></h3>
+<h3><a href="index.shtml#">Bernard Perales</a></h3>
 <p>Web developer</p>
 <div class="team_member_social_icon">
-<a href="index.html#">facebok</a>
-<a href="index.html#">twitter</a>
-<a href="index.html#">skype</a>
+<a href="index.shtml#">facebok</a>
+<a href="index.shtml#">twitter</a>
+<a href="index.shtml#">skype</a>
 </div>
 </div>
 </div>
@@ -564,8 +564,8 @@ Fifth shall wont signs, can seasons green days gathered great</p>
 <div class="card">
 <img src="img/blog/blog_3.png" class="card-img-top" alt="blog">
 <div class="card-body">
-<a href="blog.html">Art, design</a> | <span> March 30, 2019</span>
-<a href="blog.html">
+<a href="blog.shtml">Art, design</a> | <span> March 30, 2019</span>
+<a href="blog.shtml">
 <h5 class="card-title">Seasons form upon days may wont bring given herb sixth</h5>
  </a>
 <ul>
@@ -581,8 +581,8 @@ Fifth shall wont signs, can seasons green days gathered great</p>
 <div class="card">
 <img src="img/blog/blog_1.png" class="card-img-top" alt="blog">
 <div class="card-body">
-<a href="blog.html">Technology</a> | <span> March 30, 2019</span>
-<a href="blog.html">
+<a href="blog.shtml">Technology</a> | <span> March 30, 2019</span>
+<a href="blog.shtml">
 <h5 class="card-title">Seasons form upon days may wont bring given herb sixth</h5>
 </a>
 <ul>
@@ -598,8 +598,8 @@ Fifth shall wont signs, can seasons green days gathered great</p>
 <div class="card">
 <img src="img/blog/blog_2.png" class="card-img-top" alt="blog">
 <div class="card-body">
-<a href="blog.html">Technology</a> | <span> March 30, 2019</span>
-<a href="blog.html">
+<a href="blog.shtml">Technology</a> | <span> March 30, 2019</span>
+<a href="blog.shtml">
 <h5 class="card-title">Very and third him beginning signs hath subdue make
 </h5>
 </a>
@@ -616,8 +616,8 @@ Fifth shall wont signs, can seasons green days gathered great</p>
 <div class="card">
 <img src="img/blog/blog_3.png" class="card-img-top" alt="blog">
 <div class="card-body">
-<a href="blog.html">Technology</a> | <span> March 30, 2019</span>
-<a href="blog.html">
+<a href="blog.shtml">Technology</a> | <span> March 30, 2019</span>
+<a href="blog.shtml">
 <h5 class="card-title">Seasons form upon days may wont bring given herb sixth</h5>
 </a>
 <ul>
