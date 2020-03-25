@@ -4,335 +4,411 @@
 <body data-gr-c-s-loaded="true">
 
 <header class="main_menu">
- <!--#include file="inc/header.html" -->
+    <!--#include file="inc/header.html" -->
 </header>
 
 
 <section class="breadcrumb breadcrumb_bg">
-<div class="container">
-<div class="row">
-<div class="col-lg-12">
-<div class="breadcrumb_iner text-center">
-<div class="breadcrumb_iner_item">
-<h2>ABOUT US</h2>
-<p>Home <span>//</span>About</p>
-</div>
-</div>
-</div>
-</div>
-</div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb_iner text-center">
+                    <div class="breadcrumb_iner_item">
+                        <h2>ABOUT US</h2>
+                        <p>Home <span>//</span>About</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 
 
-<section class="about_part about_padding">
-<div class="container-fluid">
-<div class="row align-items-center">
-<div class="col-lg-5">
-<div class="about_img">
-<img src="img/about_img_1.png" class="img_1" alt="">
-<img src="img/about_img_2.png" class="img_2" alt="">
-<h2>25 Years Working <br>
-Experience</h2>
-</div>
-</div>
-<div class="offset-lg-1 col-lg-4">
-<div class="about_text">
-<h5>About our company</h5>
-<h2>Make the customer the
-hero of your story</h2>
-<h4>Shaping the future of digital experiences relies on clients that mirror our values. To be bold, ambitious, strategic, and mindful of the present while keeping an eye on the future.</h4>
-<p>Meat abundantly life made fly years there whose beginning crea unto beast sixth herb
-their bring. Evening fruitful god you spir evning itself land you of of own brought </p>
-<a href="#" class="btn_1">learn more <i class="ti-angle-right"></i> </a>
-</div>
-</div>
-</div>
-</div>
-<div class="hero-app-7 custom-animation"><img src="img/animate_icon/icon_7.png" alt=""></div>
-<div class="hero-app-8 custom-animation2"><img src="img/animate_icon/icon_4.png" alt=""></div>
-<div class="hero-app-6 custom-animation3"><img src="img/animate_icon/icon_5.png" alt=""></div>
+<section class="about_part">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+            <div class="col-lg-5">
+                <div class="about_img">
+                    <img src="img/about_img_01.jpeg" class="img_1" alt="">
+                    <img src="img/about_img_03.jpeg" class="img_2" alt="">
+                </div>
+            </div>
+            <div class="offset-lg-1 col-lg-4">
+                <div class="about_text">
+                    <h5>Our Company</h5>
+                    <h2>Where imagination meets creativity</h2>
+                    <h4>Vectus LLC is a leading Drupal CMS platform based full-service web technology company in
+                        Armenia.
+                    </h4>
+                    <p>Through our portfolio we help customers worldwide of all sizes build an online presence that
+                        delivers results.
+                        Vectus LLC has the breadth of capabilities and depth of knowledge to be your go-to partner in
+                        today’s always-on digital world.
+                        With our extensive product offerings and personalized support we take pride in partnering with
+                        our customers
+                        to service their online presence needs. <br>Welcome to the next era of digital, welcome to
+                        Vectus company.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="hero-app-7 custom-animation"><img src="img/animate_icon/icon_7.png" alt=""></div>
+    <div class="hero-app-8 custom-animation2"><img src="img/animate_icon/icon_4.png" alt=""></div>
+    <div class="hero-app-6 custom-animation3"><img src="img/animate_icon/icon_5.png" alt=""></div>
 </section>
 
 
-<section class="happy_client">
-<div class="container">
-<div class="row">
-<div class="col-lg-3 col-sm-6">
-<div class="single_happy_client">
-<img src="img/icon/cap.svg" alt="cap">
-<span class="counter">85</span>
-<h4>Satisfied <br>client</h4>
-</div>
-</div>
-<div class="col-lg-3 col-sm-6">
-<div class="single_happy_client">
-<img src="img/icon/bag.svg" alt="cap">
-<span class="counter">95</span>
-<h4> Total<br>project</h4>
-</div>
-</div>
-<div class="col-lg-3 col-sm-6">
-<div class="single_happy_client">
-<img src="img/icon/shirt.svg" alt="cap">
-<span class="counter">75</span>
-<h4>work<br>completed</h4>
-</div>
-</div>
-<div class="col-lg-3 col-sm-6">
-<div class="single_happy_client">
-<img src="img/icon/cafe.svg" alt="cap">
-<span class="counter">95</span>
-<h4>work<br>completed</h4>
-</div>
-</div>
-</div>
-</div>
+<section class="sample-text-area">
+    <div class="container box_1170">
+        <h3 class="text-heading">Text Sample</h3>
+        <p class="sample-text">
+            Every avid independent filmmaker has <b>Bold</b> about making that <i>Italic</i> interest documentary, or short
+            film to show off their creative prowess. Many have great ideas and want to “wow” the<sup>Superscript</sup> scene,
+            or video renters with their big project. But once you have the<sub>Subscript</sub> “in the can” (no easy feat), how
+            do you move from a <del>Strike</del> through of master DVDs with the <u>“Underline”</u> marked hand-written title
+            inside a secondhand CD case, to a pile of cardboard boxes full of shiny new, retail-ready DVDs, with UPC barcodes
+            and polywrap sitting on your doorstep?
+            You need to create eye-popping artwork and have your project replicated.
+            Using a reputable full service DVD Replication company like PacificDisc, Inc. to partner with is certainly a
+            helpful option to ensure a professional end result, but to help with your DVD replication project, here are 4 easy
+            steps to follow for good DVD replication results:
+        </p>
+
+        <h3>Subheader</h3>
+        <p>
+            You need to create eye-popping artwork and have your project replicated.
+            Using a reputable full.
+        </p>
+        <ul class="unordered-list">
+            <li>Item one in the list</li>
+            <li>Item tho in the list</li>
+            <li>Using a reputable full service DVD Replication company like PacificDisc, Inc. to partner with is certainly a
+                helpful option to ensure a professional.
+            </li>
+            <li> like PacificDisc, Inc. to partner with is certainly a
+                helpful option to ensure a professional.
+                <ul>
+                    <li>Item one in the list</li>
+                    <li>Item tho in the list</li>
+                    <li>Using a reputable full service DVD Replication company like PacificDisc, Inc. to partner with is certainly a
+                        helpful option to ensure a professional.</li>
+                </ul>
+            </li>
+            <li>Another Item tho in the list service DVD Replicaservice DVD Replicaservice DVD Replica </li>
+            <li>Using a reputable full service DVD Replication company like PacificDisc, Inc. to partner with is certainly a
+                helpful option to ensure a professional.
+            </li>
+
+        </ul>
+    </div>
 </section>
 
 
- <section class="review_part section_padding">
-<div class="container-fluid">
-<div class="row justify-content-center">
-<div class="col-lg-5">
-<div class="section_tittle text-center">
-<p>recent work</p>
-<h2>Creative work for client</h2>
+<div class="whole-wrap">
+    <div class="container box_1170">
+
+
+
+        <div class="section-top-border">
+            <h3 class="mb-30">Left Aligned</h3>
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="img/about_img_02.jpeg" alt="" class="img-fluid">
+                </div>
+                <div class="col-md-9 mt-sm-20">
+                    <p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to
+                        transfer money to them through any US bank or payment system. As a result of this law, most of the popular
+                        online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino
+                        players found themselves being chased by the Federal government. But, after a fortnight, the online casino
+                        industry came up with a solution and new online casinos started taking root. These began to operate under a
+                        different business umbrella, and by doing that, rendered the transfer of money to and from them legal. A major
+                        part of this was enlisting electronic banking systems that would accept this new clarification and start doing
+                        business with me. Listed in this article are the electronic banking systems that accept players from the United
+                        States that wish to play in online casinos.</p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="section-top-border">
+            <h3 class="mb-30">Definition</h3>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="single-defination">
+                        <h4 class="mb-20">Definition 01</h4>
+                        <p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to
+                            transfer money to them through any US bank or payment system. As a result of this law, most of the popular
+                            online casino networks</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="single-defination">
+                        <h4 class="mb-20">Definition 02</h4>
+                        <p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to
+                            transfer money to them through any US bank or payment system. As a result of this law, most of the popular
+                            online casino networks</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="single-defination">
+                        <h4 class="mb-20">Definition 03</h4>
+                        <p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to
+                            transfer money to them through any US bank or payment system. As a result of this law, most of the popular
+                            online casino networks</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
 </div>
-</div>
-</div>
-<div class="row align-items-center">
-<div class="col-lg-5">
-<div class="intro_video_bg">
-<div class="intro_video_iner text-center">
-<div class="intro_video_icon">
-<a id="play-video_1" class="video-play-button popup-youtube" href="https://www.youtube.com/watch?v=pBFQdxA-apI">
-<span class="ti-control-play"></span>
-</a>
-</div>
-<p>Watch intro video</p>
-</div>
-</div>
-</div>
-<div class="col-md-8 col-lg-5">
-<div class="review_text_item">
-<div class="row">
-<div class="col-lg-7 col-sm-8">
-<div class="owl-carousel owl-theme" id="sync2">
-<div class="owl-thumb-item">
-<div class="slider-thumbnails">
-<img src="img/client/client_1.png" alt="slideimg" class="image">
-</div>
-</div>
-<div class="owl-thumb-item">
-<div class="slider-thumbnails">
-<img src="img/client/client_2.png" alt="slideimg" class="image">
-</div>
-</div>
-<div class="owl-thumb-item">
-<div class="slider-thumbnails">
-<img src="img/client/client_3.png" alt="slideimg" class="image">
-</div>
-</div>
-<div class="owl-thumb-item">
-<div class="slider-thumbnails">
-<img src="img/client/client_1.png" alt="slideimg" class="image">
-</div>
-</div>
-<div class="owl-thumb-item">
-<div class="slider-thumbnails">
-<img src="img/client/client_2.png" alt="slideimg" class="image">
-</div>
-</div>
-<div class="owl-thumb-item">
-<div class="slider-thumbnails">
-<img src="img/client/client_3.png" alt="slideimg" class="image">
-</div>
-</div>
-<div class="owl-thumb-item">
-<div class="slider-thumbnails">
-<img src="img/client/client_1.png" alt="slideimg" class="image">
-</div>
-</div>
-<div class="owl-thumb-item">
-<div class="slider-thumbnails">
-<img src="img/client/client_2.png" alt="slideimg" class="image">
-</div>
-</div>
-<div class="owl-thumb-item">
-<div class="slider-thumbnails">
-<img src="img/client/client_3.png" alt="slideimg" class="image">
-</div>
-</div>
-<div class="owl-thumb-item">
-<div class="slider-thumbnails">
-<img src="img/client/client_1.png" alt="slideimg" class="image">
-</div>
-</div>
-<div class="owl-thumb-item">
-<div class="slider-thumbnails">
-<img src="img/client/client_2.png" alt="slideimg" class="image">
-</div>
-</div>
-<div class="owl-thumb-item">
-<div class="slider-thumbnails">
-<img src="img/client/client_3.png" alt="slideimg" class="image">
- </div>
-</div>
-</div>
-</div>
-<div class="col-lg-12">
-<div class="slider owl-carousel owl-theme" id="sync1">
-<div class="client_review_text">
-<p>Own midst. Behold sea created male he together of That Said fourth deep
-abundantly
-have light night beginning rule darkness seed darkness which land saying
-moveth.
-Fifth shall wont signs, can seasons green days gathered great</p>
-<img src="img/client/client_logo.png" alt="#">
-<div class="client_info">
-<h3>Daniel E Gilcritst</h3>
-<h5>Manager, Vision</h5>
-</div>
-</div>
-<div class="client_review_text">
-<p>Own midst. Behold sea created male he together of That Said fourth deep
-abundantly
-have light night beginning rule darkness seed darkness which land saying
-moveth.
-Fifth shall wont signs, can seasons green days gathered great</p>
-<img src="img/client/client_logo.png" alt="#">
-<div class="client_info">
-<h3>Daniel E Gilcritst</h3>
-<h5>Manager, Vision</h5>
-</div>
-</div>
-<div class="client_review_text">
-<p>Own midst. Behold sea created male he together of That Said fourth deep
-abundantly
-have light night beginning rule darkness seed darkness which land saying
-moveth.
-Fifth shall wont signs, can seasons green days gathered great</p>
-<img src="img/client/client_logo.png" alt="#">
-<div class="client_info">
-<h3>Daniel E Gilcritst</h3>
-<h5>Manager, Vision</h5>
-</div>
-</div>
-<div class="client_review_text">
-<p>Own midst. Behold sea created male he together of That Said fourth deep
-abundantly
-have light night beginning rule darkness seed darkness which land saying
-moveth.
-Fifth shall wont signs, can seasons green days gathered great</p>
-<img src="img/client/client_logo.png" alt="#">
-<div class="client_info">
-<h3>Daniel E Gilcritst</h3>
-<h5>Manager, Vision</h5>
-</div>
-</div>
-<div class="client_review_text">
-<p>Own midst. Behold sea created male he together of That Said fourth deep
-abundantly
-have light night beginning rule darkness seed darkness which land saying
-moveth.
-Fifth shall wont signs, can seasons green days gathered great</p>
-<img src="img/client/client_logo.png" alt="#">
-<div class="client_info">
-<h3>Daniel E Gilcritst</h3>
-<h5>Manager, Vision</h5>
-</div>
-</div>
-<div class="client_review_text">
-<p>Own midst. Behold sea created male he together of That Said fourth deep
-abundantly
-have light night beginning rule darkness seed darkness which land saying
-moveth.
-Fifth shall wont signs, can seasons green days gathered great</p>
-<img src="img/client/client_logo.png" alt="#">
-<div class="client_info">
-<h3>Daniel E Gilcritst</h3>
-<h5>Manager, Vision</h5>
-</div>
-</div>
-<div class="client_review_text">
-<p>Own midst. Behold sea created male he together of That Said fourth deep
-abundantly
-have light night beginning rule darkness seed darkness which land saying
-moveth.
-Fifth shall wont signs, can seasons green days gathered great</p>
-<img src="img/client/client_logo.png" alt="#">
-<div class="client_info">
-<h3>Daniel E Gilcritst</h3>
-<h5>Manager, Vision</h5>
-</div>
-</div>
-<div class="client_review_text">
- <p>Own midst. Behold sea created male he together of That Said fourth deep
-abundantly
-have light night beginning rule darkness seed darkness which land saying
-moveth.
-Fifth shall wont signs, can seasons green days gathered great</p>
-<img src="img/client/client_logo.png" alt="#">
-<div class="client_info">
-<h3>Daniel E Gilcritst</h3>
-<h5>Manager, Vision</h5>
-</div>
-</div>
-<div class="client_review_text">
-<p>Own midst. Behold sea created male he together of That Said fourth deep
-abundantly
-have light night beginning rule darkness seed darkness which land saying
-moveth.
-Fifth shall wont signs, can seasons green days gathered great</p>
-<img src="img/client/client_logo.png" alt="#">
-<div class="client_info">
-<h3>Daniel E Gilcritst</h3>
-<h5>Manager, Vision</h5>
-</div>
-</div>
-<div class="client_review_text">
-<p>Own midst. Behold sea created male he together of That Said fourth deep
-abundantly
-have light night beginning rule darkness seed darkness which land saying
-moveth.
-Fifth shall wont signs, can seasons green days gathered great</p>
-<img src="img/client/client_logo.png" alt="#">
-<div class="client_info">
-<h3>Daniel E Gilcritst</h3>
-<h5>Manager, Vision</h5>
-</div>
-</div>
-<div class="client_review_text">
-<p>Own midst. Behold sea created male he together of That Said fourth deep
-abundantly
-have light night beginning rule darkness seed darkness which land saying
-moveth.
-Fifth shall wont signs, can seasons green days gathered great</p>
-<img src="img/client/client_logo.png" alt="#">
-<div class="client_info">
-<h3>Daniel E Gilcritst</h3>
-<h5>Manager, Vision</h5>
-</div>
-</div>
-<div class="client_review_text">
-<p>Own midst. Behold sea created male he together of That Said fourth deep
-abundantly
-have light night beginning rule darkness seed darkness which land saying
-moveth.
-Fifth shall wont signs, can seasons green days gathered great</p>
-<img src="img/client/client_logo.png" alt="#">
-<div class="client_info">
-<h3>Daniel E Gilcritst</h3>
-<h5>Manager, Vision</h5> 
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
+<section class="review_part section_padding">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-lg-5">
+                <div class="section_tittle text-center">
+                    <p>recent work</p>
+                    <h2>Creative work for client</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-lg-5">
+                <div class="intro_video_bg">
+                    <div class="intro_video_iner text-center">
+                        <div class="intro_video_icon">
+                            <a id="play-video_1" class="video-play-button popup-youtube"
+                               href="https://www.youtube.com/watch?v=pBFQdxA-apI">
+                                <span class="ti-control-play"></span>
+                            </a>
+                        </div>
+                        <p>Watch intro video</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-5">
+                <div class="review_text_item">
+                    <div class="row">
+                        <div class="col-lg-7 col-sm-8">
+                            <div class="owl-carousel owl-theme" id="sync2">
+                                <div class="owl-thumb-item">
+                                    <div class="slider-thumbnails">
+                                        <img src="img/client/client_1.png" alt="slideimg" class="image">
+                                    </div>
+                                </div>
+                                <div class="owl-thumb-item">
+                                    <div class="slider-thumbnails">
+                                        <img src="img/client/client_2.png" alt="slideimg" class="image">
+                                    </div>
+                                </div>
+                                <div class="owl-thumb-item">
+                                    <div class="slider-thumbnails">
+                                        <img src="img/client/client_3.png" alt="slideimg" class="image">
+                                    </div>
+                                </div>
+                                <div class="owl-thumb-item">
+                                    <div class="slider-thumbnails">
+                                        <img src="img/client/client_1.png" alt="slideimg" class="image">
+                                    </div>
+                                </div>
+                                <div class="owl-thumb-item">
+                                    <div class="slider-thumbnails">
+                                        <img src="img/client/client_2.png" alt="slideimg" class="image">
+                                    </div>
+                                </div>
+                                <div class="owl-thumb-item">
+                                    <div class="slider-thumbnails">
+                                        <img src="img/client/client_3.png" alt="slideimg" class="image">
+                                    </div>
+                                </div>
+                                <div class="owl-thumb-item">
+                                    <div class="slider-thumbnails">
+                                        <img src="img/client/client_1.png" alt="slideimg" class="image">
+                                    </div>
+                                </div>
+                                <div class="owl-thumb-item">
+                                    <div class="slider-thumbnails">
+                                        <img src="img/client/client_2.png" alt="slideimg" class="image">
+                                    </div>
+                                </div>
+                                <div class="owl-thumb-item">
+                                    <div class="slider-thumbnails">
+                                        <img src="img/client/client_3.png" alt="slideimg" class="image">
+                                    </div>
+                                </div>
+                                <div class="owl-thumb-item">
+                                    <div class="slider-thumbnails">
+                                        <img src="img/client/client_1.png" alt="slideimg" class="image">
+                                    </div>
+                                </div>
+                                <div class="owl-thumb-item">
+                                    <div class="slider-thumbnails">
+                                        <img src="img/client/client_2.png" alt="slideimg" class="image">
+                                    </div>
+                                </div>
+                                <div class="owl-thumb-item">
+                                    <div class="slider-thumbnails">
+                                        <img src="img/client/client_3.png" alt="slideimg" class="image">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="slider owl-carousel owl-theme" id="sync1">
+                                <div class="client_review_text">
+                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
+                                        abundantly
+                                        have light night beginning rule darkness seed darkness which land saying
+                                        moveth.
+                                        Fifth shall wont signs, can seasons green days gathered great</p>
+                                    <img src="img/client/client_logo.png" alt="#">
+                                    <div class="client_info">
+                                        <h3>Daniel E Gilcritst</h3>
+                                        <h5>Manager, Vision</h5>
+                                    </div>
+                                </div>
+                                <div class="client_review_text">
+                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
+                                        abundantly
+                                        have light night beginning rule darkness seed darkness which land saying
+                                        moveth.
+                                        Fifth shall wont signs, can seasons green days gathered great</p>
+                                    <img src="img/client/client_logo.png" alt="#">
+                                    <div class="client_info">
+                                        <h3>Daniel E Gilcritst</h3>
+                                        <h5>Manager, Vision</h5>
+                                    </div>
+                                </div>
+                                <div class="client_review_text">
+                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
+                                        abundantly
+                                        have light night beginning rule darkness seed darkness which land saying
+                                        moveth.
+                                        Fifth shall wont signs, can seasons green days gathered great</p>
+                                    <img src="img/client/client_logo.png" alt="#">
+                                    <div class="client_info">
+                                        <h3>Daniel E Gilcritst</h3>
+                                        <h5>Manager, Vision</h5>
+                                    </div>
+                                </div>
+                                <div class="client_review_text">
+                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
+                                        abundantly
+                                        have light night beginning rule darkness seed darkness which land saying
+                                        moveth.
+                                        Fifth shall wont signs, can seasons green days gathered great</p>
+                                    <img src="img/client/client_logo.png" alt="#">
+                                    <div class="client_info">
+                                        <h3>Daniel E Gilcritst</h3>
+                                        <h5>Manager, Vision</h5>
+                                    </div>
+                                </div>
+                                <div class="client_review_text">
+                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
+                                        abundantly
+                                        have light night beginning rule darkness seed darkness which land saying
+                                        moveth.
+                                        Fifth shall wont signs, can seasons green days gathered great</p>
+                                    <img src="img/client/client_logo.png" alt="#">
+                                    <div class="client_info">
+                                        <h3>Daniel E Gilcritst</h3>
+                                        <h5>Manager, Vision</h5>
+                                    </div>
+                                </div>
+                                <div class="client_review_text">
+                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
+                                        abundantly
+                                        have light night beginning rule darkness seed darkness which land saying
+                                        moveth.
+                                        Fifth shall wont signs, can seasons green days gathered great</p>
+                                    <img src="img/client/client_logo.png" alt="#">
+                                    <div class="client_info">
+                                        <h3>Daniel E Gilcritst</h3>
+                                        <h5>Manager, Vision</h5>
+                                    </div>
+                                </div>
+                                <div class="client_review_text">
+                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
+                                        abundantly
+                                        have light night beginning rule darkness seed darkness which land saying
+                                        moveth.
+                                        Fifth shall wont signs, can seasons green days gathered great</p>
+                                    <img src="img/client/client_logo.png" alt="#">
+                                    <div class="client_info">
+                                        <h3>Daniel E Gilcritst</h3>
+                                        <h5>Manager, Vision</h5>
+                                    </div>
+                                </div>
+                                <div class="client_review_text">
+                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
+                                        abundantly
+                                        have light night beginning rule darkness seed darkness which land saying
+                                        moveth.
+                                        Fifth shall wont signs, can seasons green days gathered great</p>
+                                    <img src="img/client/client_logo.png" alt="#">
+                                    <div class="client_info">
+                                        <h3>Daniel E Gilcritst</h3>
+                                        <h5>Manager, Vision</h5>
+                                    </div>
+                                </div>
+                                <div class="client_review_text">
+                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
+                                        abundantly
+                                        have light night beginning rule darkness seed darkness which land saying
+                                        moveth.
+                                        Fifth shall wont signs, can seasons green days gathered great</p>
+                                    <img src="img/client/client_logo.png" alt="#">
+                                    <div class="client_info">
+                                        <h3>Daniel E Gilcritst</h3>
+                                        <h5>Manager, Vision</h5>
+                                    </div>
+                                </div>
+                                <div class="client_review_text">
+                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
+                                        abundantly
+                                        have light night beginning rule darkness seed darkness which land saying
+                                        moveth.
+                                        Fifth shall wont signs, can seasons green days gathered great</p>
+                                    <img src="img/client/client_logo.png" alt="#">
+                                    <div class="client_info">
+                                        <h3>Daniel E Gilcritst</h3>
+                                        <h5>Manager, Vision</h5>
+                                    </div>
+                                </div>
+                                <div class="client_review_text">
+                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
+                                        abundantly
+                                        have light night beginning rule darkness seed darkness which land saying
+                                        moveth.
+                                        Fifth shall wont signs, can seasons green days gathered great</p>
+                                    <img src="img/client/client_logo.png" alt="#">
+                                    <div class="client_info">
+                                        <h3>Daniel E Gilcritst</h3>
+                                        <h5>Manager, Vision</h5>
+                                    </div>
+                                </div>
+                                <div class="client_review_text">
+                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
+                                        abundantly
+                                        have light night beginning rule darkness seed darkness which land saying
+                                        moveth.
+                                        Fifth shall wont signs, can seasons green days gathered great</p>
+                                    <img src="img/client/client_logo.png" alt="#">
+                                    <div class="client_info">
+                                        <h3>Daniel E Gilcritst</h3>
+                                        <h5>Manager, Vision</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 
 
