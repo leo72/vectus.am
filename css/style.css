@@ -5540,6 +5540,7 @@ ul {
   border: 1px solid #45556a;
   padding: 20px;
   text-align: center;
+  margin-bottom: 30px;
 }
 
 @media (max-width: 576px) {
@@ -5655,7 +5656,7 @@ ul {
 /* line 83, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_team.scss */
 .team_member_section .single_team_member .single_team_text .team_member_social_icon a {
   color: #abb2ba;
-  margin: 0px 23px;
+  margin: 0px 20px;
   text-transform: capitalize;
   position: relative;
   z-index: 1;

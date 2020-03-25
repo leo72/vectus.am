@@ -661,7 +661,51 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img//team_3.png" alt="">
+                    <img src="img/team_3.png" alt="">
+                    <div class="single_team_text">
+                        <h3><a href="index.shtml#">Aram Gevorgyan</a></h3>
+                        <p>Co-Founder, CEO</p>
+                        <div class="team_member_social_icon">
+                            <a href="index.shtml#">facebok</a>
+                            <a href="index.shtml#">twitter</a>
+                            <a href="index.shtml#">skype</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team_2.png" alt="">
+                    <div class="single_team_text">
+                        <h3><a target="_blank" href="https://www.drupal.org/u/arthurbaghdasar">Arthur Baghdasaryan</a>
+                        </h3>
+                        <p>Developer</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.facebook.com/arthur910101">Facebok</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/arthur910101/">Linkedin</a>
+                            <a target="_blank" href="https://www.drupal.org/u/arthurbaghdasar">Drupal</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team_3.png" alt="">
+                    <div class="single_team_text">
+                        <h3><a href="index.shtml#">Lev Ananikyan</a></h3>
+                        <p>HR Manager</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.facebook.com/lev.ananikyan">Facebok</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/ananikyan/">Linkedin</a>
+                            <a target="_blank" href="https://www.drupal.org/u/le72">Drupal</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team_1.png" alt="">
                     <div class="single_team_text">
                         <h3><a href="index.shtml#">Bernard Perales</a></h3>
                         <p>Web developer</p>
@@ -674,6 +718,7 @@
                 </div>
             </div>
         </div>
+
     </div>
 </section>
 
