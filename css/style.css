@@ -4059,11 +4059,12 @@ ul {
 /* line 4, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
 .service_part .single_service_part_iner {
   background-color: #2e4158;
-  padding: 50px 24px;
+  padding: 50px 24px 20px;
   text-align: center;
   border-radius: 5px;
   -webkit-transition: 0.6s;
   transition: 0.6s;
+  min-height: 330px;
 }
 
 @media (max-width: 576px) {
