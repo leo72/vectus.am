@@ -221,30 +221,30 @@
         <div class="row">
             <div class="col-lg-3 col-sm-6">
                 <div class="single_happy_client">
+                    <img src="img/icon/bag.svg" alt="cap">
+                    <span class="counter">5</span>
+                    <h4>Stars<br>on Google</h4>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single_happy_client">
                     <img src="img/icon/cap.svg" alt="cap">
-                    <span class="counter">85</span>
+                    <span class="counter">12</span>
                     <h4>Satisfied <br>client</h4>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
                 <div class="single_happy_client">
-                    <img src="img/icon/bag.svg" alt="cap">
-                    <span class="counter">95</span>
-                    <h4> Total<br>project</h4>
-                </div>
-            </div>
-            <div class="col-lg-3 col-sm-6">
-                <div class="single_happy_client">
                     <img src="img/icon/shirt.svg" alt="cap">
-                    <span class="counter">75</span>
-                    <h4>work<br>completed</h4>
+                    <span class="counter">21</span>
+                    <h4>Work<br>completed</h4>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
                 <div class="single_happy_client">
                     <img src="img/icon/cafe.svg" alt="cap">
-                    <span class="counter">95</span>
-                    <h4>work<br>completed</h4>
+                    <span class="counter">78</span>
+                    <h4>caps coffee<br>every week</h4>
                 </div>
             </div>
         </div>
@@ -675,9 +675,9 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team_2.png" alt="">
+                    <img src="img/team/vahan.jpg" alt="">
                     <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.drupal.org/u/arthurbaghdasar">Arthur Baghdasaryan</a>
+                        <h3><a target="_blank" href="https://www.drupal.org/u/arthurbaghdasar">Vahan Margaryan</a>
                         </h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
@@ -690,10 +690,10 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team_3.png" alt="">
+                    <img src="img/team/aram_mirzoyan.jpg" alt="">
                     <div class="single_team_text">
-                        <h3><a href="index.shtml#">Lev Ananikyan</a></h3>
-                        <p>HR Manager</p>
+                        <h3><a href="index.shtml#">Aram Mirzoyan</a></h3>
+                        <p>Developer</p>
                         <div class="team_member_social_icon">
                             <a target="_blank" href="https://www.facebook.com/lev.ananikyan">Facebok</a>
                             <a target="_blank" href="https://www.linkedin.com/in/ananikyan/">Linkedin</a>

@@ -57,105 +57,97 @@
     <div class="hero-app-6 custom-animation3"><img src="img/animate_icon/icon_5.png" alt=""></div>
 </section>
 
-
-<section class="sample-text-area">
-    <div class="container box_1170">
-        <h3 class="text-heading">Text Sample</h3>
-        <p class="sample-text">
-            Every avid independent filmmaker has <b>Bold</b> about making that <i>Italic</i> interest documentary, or short
-            film to show off their creative prowess. Many have great ideas and want to “wow” the<sup>Superscript</sup> scene,
-            or video renters with their big project. But once you have the<sub>Subscript</sub> “in the can” (no easy feat), how
-            do you move from a <del>Strike</del> through of master DVDs with the <u>“Underline”</u> marked hand-written title
-            inside a secondhand CD case, to a pile of cardboard boxes full of shiny new, retail-ready DVDs, with UPC barcodes
-            and polywrap sitting on your doorstep?
-            You need to create eye-popping artwork and have your project replicated.
-            Using a reputable full service DVD Replication company like PacificDisc, Inc. to partner with is certainly a
-            helpful option to ensure a professional end result, but to help with your DVD replication project, here are 4 easy
-            steps to follow for good DVD replication results:
-        </p>
-
-        <h3>Subheader</h3>
-        <p>
-            You need to create eye-popping artwork and have your project replicated.
-            Using a reputable full.
-        </p>
-        <ul class="unordered-list">
-            <li>Item one in the list</li>
-            <li>Item tho in the list</li>
-            <li>Using a reputable full service DVD Replication company like PacificDisc, Inc. to partner with is certainly a
-                helpful option to ensure a professional.
-            </li>
-            <li> like PacificDisc, Inc. to partner with is certainly a
-                helpful option to ensure a professional.
-                <ul>
-                    <li>Item one in the list</li>
-                    <li>Item tho in the list</li>
-                    <li>Using a reputable full service DVD Replication company like PacificDisc, Inc. to partner with is certainly a
-                        helpful option to ensure a professional.</li>
-                </ul>
-            </li>
-            <li>Another Item tho in the list service DVD Replicaservice DVD Replicaservice DVD Replica </li>
-            <li>Using a reputable full service DVD Replication company like PacificDisc, Inc. to partner with is certainly a
-                helpful option to ensure a professional.
-            </li>
-
-        </ul>
-    </div>
-</section>
-
-
 <div class="whole-wrap">
     <div class="container box_1170">
 
 
 
-        <div class="section-top-border">
-            <h3 class="mb-30">Left Aligned</h3>
+        <div class="section-top-border z_index">
+            <h3 class="mb-30">Who We Are</h3>
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <img src="img/about_img_02.jpeg" alt="" class="img-fluid">
                 </div>
-                <div class="col-md-9 mt-sm-20">
-                    <p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to
-                        transfer money to them through any US bank or payment system. As a result of this law, most of the popular
-                        online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino
-                        players found themselves being chased by the Federal government. But, after a fortnight, the online casino
-                        industry came up with a solution and new online casinos started taking root. These began to operate under a
-                        different business umbrella, and by doing that, rendered the transfer of money to and from them legal. A major
-                        part of this was enlisting electronic banking systems that would accept this new clarification and start doing
-                        business with me. Listed in this article are the electronic banking systems that accept players from the United
-                        States that wish to play in online casinos.</p>
+                <div class="col-md-8 mt-sm-20">
+                    <p><b>Vectus LLC</b> was founded on 12 March, 2019 in Yerevan, Armenia.
+                        The company founders decided to unite their team of senior level programmers and professionals
+                        around the idea of web architecture development service provision based on the state of the art
+                        technologies with a specific focus on Drupal platform and web engineering toolsets.</p>
+                    <p>The Vectus team is dedicated to implement the company mission, as a separate business,
+                        asserting into the daily work their advanced knowledge and professional experience accumulated
+                        while working in different IT companies and smart projects.</p>
+                    <p>We are committed to developing relationships and ensuring success to the business of our
+                        customers. <b>Vectus LLC</b> adopted values aimed at acting as accountable customer-centric company
+                        with highest standards of integrity in our responsible actions and service portfolio provision.</p>
+                    <p>Our mission is to provide a portfolio of high quality, innovative and reliable solutions for private and
+                        corporate sector. Not only we build professional,
+                        mobile-optimized websites to help you grow your business, but we also become your partner for all your online needs.</p>
                 </div>
             </div>
+            <div class="hero-app-6 custom-animation3"><img src="img/animate_icon/icon_5.png" alt=""></div>
         </div>
 
-
-
         <div class="section-top-border">
-            <h3 class="mb-30">Definition</h3>
+            <h3 class="mb-30">We are able to make impossible things possible by following a strategic approach.</h3>
             <div class="row">
                 <div class="col-md-4">
-                    <div class="single-defination">
-                        <h4 class="mb-20">Definition 01</h4>
-                        <p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to
-                            transfer money to them through any US bank or payment system. As a result of this law, most of the popular
-                            online casino networks</p>
+                    <div class="single-approach">
+                        <h4 class="mb-20">1. Discover</h4>
+                        <p>In this phase, we ask you significant questions like: <br> What is the intention of creating a website? What are you looking forward from the website?
+                            What is the ultimate goal of your website? What sort of audience do you want to target?
+                            Who are your competitors and their websites? What are your basic requirements?
+                            What is your time-limit? What is your fiscal estimate?</p>
+
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="single-defination">
-                        <h4 class="mb-20">Definition 02</h4>
-                        <p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to
-                            transfer money to them through any US bank or payment system. As a result of this law, most of the popular
-                            online casino networks</p>
+                    <div class="single-approach">
+                        <h4 class="mb-20">2. Plan</h4>
+                        <p>The secret of the success is determined by your daily agenda. We are sure about the fact
+                            that planning makes the whole process and the implementation part easier and without complications.
+                            This phase involves developing the graphical structure of the website, sketching wire frames,
+                            content sketches, functional sketches, website flowcharts, page divisions etc.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="single-defination">
-                        <h4 class="mb-20">Definition 03</h4>
-                        <p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to
-                            transfer money to them through any US bank or payment system. As a result of this law, most of the popular
-                            online casino networks</p>
+                    <div class="single-approach">
+                        <h4 class="mb-20">3. Design</h4>
+                        <p>“Design can be art. Design can be simple. That’s why it’s so complicated.” - Paul Rand</p>
+                        <p>We completely understand that designing a project is like designing a new home. After an in-depth research of the newfangled trends, we choose the astonishing
+                            and eye-catching color combinations, typography, partitioning of the page content, videos, animations, and images etc.</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="single-approach">
+                        <h4 class="mb-20">4. Develop</h4>
+                        <p>We are  develop flawless and perfect dream projects for
+                            the clients by using the skills of most talented adept and advance-guard technology.
+                            The approval of design on your side is the first-step.
+                            Our development team of experts then starts the process and show the magic by
+                            transforming the layout into an awesome reality. The testing of the website is also done in this
+                            phase by running the website prototype on major web browsers for checking the total functionality
+                            and response time of the web pages.</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="single-approach">
+                        <h4 class="mb-20">5. Launch</h4>
+                        <p>One of the most significant tasks is launching a website.
+                            After the prototype is approved by you, the website is ready to be consumed by the search engines.
+                            The content is checked many times
+                            for any kinds of flaws including grammar or spellings etc .
+                            We make sure that your audience gets the ultimate web experience. We believe a launch is like
+                            the beginning of a sprint race i.e. better the beginning, higher are the chances of success.</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="single-approach">
+                        <h4 class="mb-20">6. Maintenance</h4>
+                        <p>Our services don’t end after the launch of your website.
+                            All of our projects include a complimentary 40-day Service Level Agreement (SLA).
+                            This covers bug fixes and site issues that may arise immediately following launch.
+                            For clients looking for continuous support and improvements we keep the site up-to-date
+                            on an ongoing basis but also includes scheduled meetings and planning each month for defining specific areas of focus.</p>
                     </div>
                 </div>
             </div>
@@ -164,253 +156,6 @@
 
     </div>
 </div>
-
-<section class="review_part section_padding">
-    <div class="container-fluid">
-        <div class="row justify-content-center">
-            <div class="col-lg-5">
-                <div class="section_tittle text-center">
-                    <p>recent work</p>
-                    <h2>Creative work for client</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row align-items-center">
-            <div class="col-lg-5">
-                <div class="intro_video_bg">
-                    <div class="intro_video_iner text-center">
-                        <div class="intro_video_icon">
-                            <a id="play-video_1" class="video-play-button popup-youtube"
-                               href="https://www.youtube.com/watch?v=pBFQdxA-apI">
-                                <span class="ti-control-play"></span>
-                            </a>
-                        </div>
-                        <p>Watch intro video</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-8 col-lg-5">
-                <div class="review_text_item">
-                    <div class="row">
-                        <div class="col-lg-7 col-sm-8">
-                            <div class="owl-carousel owl-theme" id="sync2">
-                                <div class="owl-thumb-item">
-                                    <div class="slider-thumbnails">
-                                        <img src="img/client/client_1.png" alt="slideimg" class="image">
-                                    </div>
-                                </div>
-                                <div class="owl-thumb-item">
-                                    <div class="slider-thumbnails">
-                                        <img src="img/client/client_2.png" alt="slideimg" class="image">
-                                    </div>
-                                </div>
-                                <div class="owl-thumb-item">
-                                    <div class="slider-thumbnails">
-                                        <img src="img/client/client_3.png" alt="slideimg" class="image">
-                                    </div>
-                                </div>
-                                <div class="owl-thumb-item">
-                                    <div class="slider-thumbnails">
-                                        <img src="img/client/client_1.png" alt="slideimg" class="image">
-                                    </div>
-                                </div>
-                                <div class="owl-thumb-item">
-                                    <div class="slider-thumbnails">
-                                        <img src="img/client/client_2.png" alt="slideimg" class="image">
-                                    </div>
-                                </div>
-                                <div class="owl-thumb-item">
-                                    <div class="slider-thumbnails">
-                                        <img src="img/client/client_3.png" alt="slideimg" class="image">
-                                    </div>
-                                </div>
-                                <div class="owl-thumb-item">
-                                    <div class="slider-thumbnails">
-                                        <img src="img/client/client_1.png" alt="slideimg" class="image">
-                                    </div>
-                                </div>
-                                <div class="owl-thumb-item">
-                                    <div class="slider-thumbnails">
-                                        <img src="img/client/client_2.png" alt="slideimg" class="image">
-                                    </div>
-                                </div>
-                                <div class="owl-thumb-item">
-                                    <div class="slider-thumbnails">
-                                        <img src="img/client/client_3.png" alt="slideimg" class="image">
-                                    </div>
-                                </div>
-                                <div class="owl-thumb-item">
-                                    <div class="slider-thumbnails">
-                                        <img src="img/client/client_1.png" alt="slideimg" class="image">
-                                    </div>
-                                </div>
-                                <div class="owl-thumb-item">
-                                    <div class="slider-thumbnails">
-                                        <img src="img/client/client_2.png" alt="slideimg" class="image">
-                                    </div>
-                                </div>
-                                <div class="owl-thumb-item">
-                                    <div class="slider-thumbnails">
-                                        <img src="img/client/client_3.png" alt="slideimg" class="image">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="slider owl-carousel owl-theme" id="sync1">
-                                <div class="client_review_text">
-                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
-                                        abundantly
-                                        have light night beginning rule darkness seed darkness which land saying
-                                        moveth.
-                                        Fifth shall wont signs, can seasons green days gathered great</p>
-                                    <img src="img/client/client_logo.png" alt="#">
-                                    <div class="client_info">
-                                        <h3>Daniel E Gilcritst</h3>
-                                        <h5>Manager, Vision</h5>
-                                    </div>
-                                </div>
-                                <div class="client_review_text">
-                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
-                                        abundantly
-                                        have light night beginning rule darkness seed darkness which land saying
-                                        moveth.
-                                        Fifth shall wont signs, can seasons green days gathered great</p>
-                                    <img src="img/client/client_logo.png" alt="#">
-                                    <div class="client_info">
-                                        <h3>Daniel E Gilcritst</h3>
-                                        <h5>Manager, Vision</h5>
-                                    </div>
-                                </div>
-                                <div class="client_review_text">
-                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
-                                        abundantly
-                                        have light night beginning rule darkness seed darkness which land saying
-                                        moveth.
-                                        Fifth shall wont signs, can seasons green days gathered great</p>
-                                    <img src="img/client/client_logo.png" alt="#">
-                                    <div class="client_info">
-                                        <h3>Daniel E Gilcritst</h3>
-                                        <h5>Manager, Vision</h5>
-                                    </div>
-                                </div>
-                                <div class="client_review_text">
-                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
-                                        abundantly
-                                        have light night beginning rule darkness seed darkness which land saying
-                                        moveth.
-                                        Fifth shall wont signs, can seasons green days gathered great</p>
-                                    <img src="img/client/client_logo.png" alt="#">
-                                    <div class="client_info">
-                                        <h3>Daniel E Gilcritst</h3>
-                                        <h5>Manager, Vision</h5>
-                                    </div>
-                                </div>
-                                <div class="client_review_text">
-                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
-                                        abundantly
-                                        have light night beginning rule darkness seed darkness which land saying
-                                        moveth.
-                                        Fifth shall wont signs, can seasons green days gathered great</p>
-                                    <img src="img/client/client_logo.png" alt="#">
-                                    <div class="client_info">
-                                        <h3>Daniel E Gilcritst</h3>
-                                        <h5>Manager, Vision</h5>
-                                    </div>
-                                </div>
-                                <div class="client_review_text">
-                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
-                                        abundantly
-                                        have light night beginning rule darkness seed darkness which land saying
-                                        moveth.
-                                        Fifth shall wont signs, can seasons green days gathered great</p>
-                                    <img src="img/client/client_logo.png" alt="#">
-                                    <div class="client_info">
-                                        <h3>Daniel E Gilcritst</h3>
-                                        <h5>Manager, Vision</h5>
-                                    </div>
-                                </div>
-                                <div class="client_review_text">
-                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
-                                        abundantly
-                                        have light night beginning rule darkness seed darkness which land saying
-                                        moveth.
-                                        Fifth shall wont signs, can seasons green days gathered great</p>
-                                    <img src="img/client/client_logo.png" alt="#">
-                                    <div class="client_info">
-                                        <h3>Daniel E Gilcritst</h3>
-                                        <h5>Manager, Vision</h5>
-                                    </div>
-                                </div>
-                                <div class="client_review_text">
-                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
-                                        abundantly
-                                        have light night beginning rule darkness seed darkness which land saying
-                                        moveth.
-                                        Fifth shall wont signs, can seasons green days gathered great</p>
-                                    <img src="img/client/client_logo.png" alt="#">
-                                    <div class="client_info">
-                                        <h3>Daniel E Gilcritst</h3>
-                                        <h5>Manager, Vision</h5>
-                                    </div>
-                                </div>
-                                <div class="client_review_text">
-                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
-                                        abundantly
-                                        have light night beginning rule darkness seed darkness which land saying
-                                        moveth.
-                                        Fifth shall wont signs, can seasons green days gathered great</p>
-                                    <img src="img/client/client_logo.png" alt="#">
-                                    <div class="client_info">
-                                        <h3>Daniel E Gilcritst</h3>
-                                        <h5>Manager, Vision</h5>
-                                    </div>
-                                </div>
-                                <div class="client_review_text">
-                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
-                                        abundantly
-                                        have light night beginning rule darkness seed darkness which land saying
-                                        moveth.
-                                        Fifth shall wont signs, can seasons green days gathered great</p>
-                                    <img src="img/client/client_logo.png" alt="#">
-                                    <div class="client_info">
-                                        <h3>Daniel E Gilcritst</h3>
-                                        <h5>Manager, Vision</h5>
-                                    </div>
-                                </div>
-                                <div class="client_review_text">
-                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
-                                        abundantly
-                                        have light night beginning rule darkness seed darkness which land saying
-                                        moveth.
-                                        Fifth shall wont signs, can seasons green days gathered great</p>
-                                    <img src="img/client/client_logo.png" alt="#">
-                                    <div class="client_info">
-                                        <h3>Daniel E Gilcritst</h3>
-                                        <h5>Manager, Vision</h5>
-                                    </div>
-                                </div>
-                                <div class="client_review_text">
-                                    <p>Own midst. Behold sea created male he together of That Said fourth deep
-                                        abundantly
-                                        have light night beginning rule darkness seed darkness which land saying
-                                        moveth.
-                                        Fifth shall wont signs, can seasons green days gathered great</p>
-                                    <img src="img/client/client_logo.png" alt="#">
-                                    <div class="client_info">
-                                        <h3>Daniel E Gilcritst</h3>
-                                        <h5>Manager, Vision</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 
 <!--#include file="inc/footer.html" -->
 
