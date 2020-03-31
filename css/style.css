@@ -3926,6 +3926,7 @@ ul {
 /* line 116, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_resent_work.scss */
 .our_latest_work .demo_img img {
   width: 100%;
+  border: 1px solid #e2e6e7
 }
 
 /**************** service_part css start ****************/

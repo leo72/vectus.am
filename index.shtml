@@ -57,8 +57,7 @@
                     <div class="single_service_part_iner">
                         <span class="ti-mobile"></span>
                         <h3>Responsive Design</h3>
-                        <p>A responsive website has a fluid and flexible layout which adjusts according to screen
-                            size</p>
+                        <p>Professional approach to the user’s behavior and environment based on screen size, platform and orientation.</p>
                     </div>
                 </div>
             </div>
@@ -67,7 +66,7 @@
                     <div class="single_service_part_iner">
                         <span class="ti-layers"></span>
                         <h3>Quality Matters</h3>
-                        <p>Providing the best quality required by clients</p>
+                        <p>We are proud of the job we do, when excellence is expected. We do it right even when no one is looking.</p>
                     </div>
                 </div>
             </div>
@@ -76,7 +75,7 @@
                     <div class="single_service_part_iner">
                         <span class="ti-lock"></span>
                         <h3>Better Security</h3>
-                        <p>Protecting your website by detecting, preventing and responding to cyber threads</p>
+                        <p>We guard. We protect. We secure. We care as much as you do. Your online world is more secure with us.</p>
                     </div>
                 </div>
             </div>
@@ -85,7 +84,7 @@
                     <div class="single_service_part_iner">
                         <span class="ti-headphone"></span>
                         <h3>24/7 Service</h3>
-                        <p>We have got you covered, 24/7 customer support</p>
+                        <p>A partner You can rely on. Our day isn’t over until we’ve made Yours.</p>
                     </div>
                 </div>
             </div>
@@ -147,20 +146,22 @@
                     <div class="row align-items-center">
                         <div class="offset-lg-1 col-lg-4 col-md-6">
                             <div class="single_work_demo">
-                                <h5>Mockup design</h5>
-                                <h3>It under itself day whales waters our divide third brought</h3>
-                                <p>Place isn't heaven firmament divided shall fruitful bring bring may midst
-                                    every a night dry herb. Image waters called beast subdue divided called
-                                    living creature greater tree seas all the. Hath multiply female you're
-                                    male likeness his made open beast seas living moved, form.
-                                    Void stars you our dominion </p>
+                                <h5>Live24.am</h5>
+                                <h3>Fresh & Live News from Armenia</h3>
+                                <p>Live24.am is an Armenian news portal. It offers not only most actual news in politics and busyness,
+                                    but also news related to sport, lifestyle, travel, health and much more.
+                                    The web-page was  created to gather the most actual and interesting news in one place.
+                                    On this site you can also find Live TV. The idea was to create a unique media-player and broadcast a content
+                                    which differs from others. Now it is one of the most popular medias in Armenia.
+                                    You can also find Live24.am news on all social networks.
+                                </p>
                                 <a href="project_details.html" class="btn_3">learn more <span
                                         class="flaticon-slim-right"></span> </a>
                             </div>
                         </div>
                         <div class="offset-lg-1 col-lg-6 col-md-6">
                             <div class="demo_img">
-                                <img src="img/demo/demo_1.png" alt="demo">
+                                <img src="img/demo/live24_1.jpg" alt="demo">
                             </div>
                         </div>
                     </div>
@@ -690,6 +691,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
+                    <img src="img/team/aram_mirzoyan.jpg" alt="">
                     <img src="img/team/aram_mirzoyan.jpg" alt="">
                     <div class="single_team_text">
                         <h3><a href="index.shtml#">Aram Mirzoyan</a></h3>
