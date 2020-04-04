@@ -130,7 +130,7 @@
 </section>
 
 
-<section class="our_latest_work section_padding">
+<section id="our-latest-work" class="our_latest_work section_padding">
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-lg-5">
