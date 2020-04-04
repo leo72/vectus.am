@@ -66,7 +66,7 @@
             <h3 class="mb-30">Who We Are</h3>
             <div class="row">
                 <div class="col-md-4">
-                    <img src="img/about_img_02.jpeg" alt="" class="img-fluid">
+                    <img src="img/about_img_02.jpeg" alt="" class="img-fluid mb-30">
                 </div>
                 <div class="col-md-8 mt-sm-20">
                     <p><b>Vectus LLC</b> was founded on 12 March, 2019 in Yerevan, Armenia.
@@ -81,8 +81,19 @@
                         with highest standards of integrity in our responsible actions and service portfolio provision.</p>
                     <p>Our mission is to provide a portfolio of high quality, innovative and reliable solutions for private and
                         corporate sector. Not only we build professional,
-                        mobile-optimized websites to help you grow your business, but we also become your partner for all your online needs.</p>
+                        mobile-optimized websites to help you grow your business, but we also become your partner for all your online needs.
+                    </p>
                 </div>
+            </div>
+
+            <h3 class="mb-30">What we do?</h3>
+            <div class="row">
+                <div class="col-md-8"><p>As a Web Development company we offer a full-lifecycle loop in website design & web development where
+                    the authentic web designing effort covers only 50% of the entire project pie; our services covers strategic planning,
+                    business intellect, creativity, application development, product-service promotion & resolution maintenance.
+                    Mostly clients spend their time in understanding business objectives, defining the problem and finally designing the best potential solution.
+                    We develop the website which can offer you the best return for your asset, if done appropriately.</p></div>
+                <div class="col-md-4"><img src="img/about_img_05.jpg" alt="" class="img-fluid"></div>
             </div>
             <div class="hero-app-6 custom-animation3"><img src="img/animate_icon/icon_5.png" alt=""></div>
         </div>
