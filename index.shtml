@@ -622,20 +622,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_team_member">
-                    <img src="img/team_1.png" alt="">
-                    <div class="single_team_text">
-                        <h3><a href="index.shtml#">Bernard Perales</a></h3>
-                        <p>Web developer</p>
-                        <div class="team_member_social_icon">
-                            <a href="index.shtml#">facebok</a>
-                            <a href="index.shtml#">twitter</a>
-                            <a href="index.shtml#">skype</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+          
         </div>
 
     </div>
