@@ -178,7 +178,7 @@
                                 <h3>The Institute of Mathematics of National Academy of Sciences of Armenia</h3>
                                 <p>The Institute of Mathematics of NAS RA originated as the Section for Mathematics and Mechanics, created within the newly formed Armenian Academy of Sciences in 1944.
                                     In  2018 director Rafael Barkhudaryan decided to create not just a simple information web page, he wanted a flexible and easy-to-use tools.
-                                    A ropbust website was created which is an active community portal for Armenian mathematicians. </p>
+                                    A robust website was created which is an active community portal for Armenian mathematicians. </p>
                                 <a href="http://math.sci.am" class="btn_3" rel=”nofollow” target="_blank">learn more <span
                                         class="flaticon-slim-right"></span> </a>
                             </div>
@@ -600,8 +600,8 @@
                         </h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.facebook.com/arthur910101">Facebok</a>
-                            <a target="_blank" href="https://www.linkedin.com/in/arthur910101/">Linkedin</a>
+                            <a target="_blank" href="https://www.facebook.com/">Facebok</a>
+                            <a target="_blank" href="https://www.linkedin.com/in//">Linkedin</a>
                             <a target="_blank" href="https://www.drupal.org/u/hayk91">Drupal</a>
                         </div>
                     </div>
@@ -614,14 +614,58 @@
                         <h3><a href="index.shtml#">Aram Mirzoyan</a></h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.facebook.com/lev.ananikyan">Facebok</a>
-                            <a target="_blank" href="https://www.linkedin.com/in/ananikyan/">Linkedin</a>
-                            <a target="_blank" href="https://www.drupal.org/u/le72">Drupal</a>
+                            <a target="_blank" href="https://www.facebook.com/vectus">Facebok</a>
+                            <a target="_blank" href="https://www.linkedin.com/vectus">Linkedin</a>
+                            <a target="_blank" href="https://www.drupal.org/vectus">Drupal</a>
                         </div>
                     </div>
                 </div>
             </div>
 
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/ashot_m.jpg" alt="">
+                    <div class="single_team_text">
+                        <h3><a href="index.shtml#">Ashot Martirosyan</a></h3>
+                        <p>Developer</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.facebook.com/vectus">Facebok</a>
+                            <a target="_blank" href="https://www.linkedin.com/vectus">Linkedin</a>
+                            <a target="_blank" href="https://www.drupal.org/vectus">Drupal</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/david_kalantaryan.jpg" alt="">
+                    <div class="single_team_text">
+                        <h3><a href="index.shtml#">David Kalantaryan</a></h3>
+                        <p>Sales</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.facebook.com/vectus">Facebok</a>
+                            <a target="_blank" href="https://www.linkedin.com/vectus">Linkedin</a>
+                            <a target="_blank" href="https://www.drupal.org/vectus">Drupal</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team_2.png" alt="">
+                    <div class="single_team_text">
+                        <h3><a href="index.shtml#">Next Member</a></h3>
+                        <p>Developer</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.facebook.com/vectus">Facebok</a>
+                            <a target="_blank" href="https://www.linkedin.com/vectus">Linkedin</a>
+                            <a target="_blank" href="https://www.drupal.org/vectus">Drupal</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
           
         </div>
 
@@ -643,11 +687,11 @@
             <div class="col-sm-6 col-lg-4 col-xl-4">
                 <div class="single-home-blog">
                     <div class="card">
-                        <img src="img/blog/blog_3.png" class="card-img-top" alt="blog">
+                        <img src="img/blog/blog_2.png" class="card-img-top" alt="blog">
                         <div class="card-body">
-                            <a href="blog.shtml">Art, design</a> | <span> April 1, 2019</span>
-                            <a href="blog.shtml">
-                                <h5 class="card-title">Seasons form upon days may wont bring given herb sixth</h5>
+                            <a href="https://themeisle.com/blog/drupal-9/" target="_blank">Drupal</a> | <span> April 1, 2019</span>
+                            <a href="https://themeisle.com/blog/drupal-9/" target="_blank">
+                                <h5 class="card-title">An Early Look at Drupal 9: What to Expect From the New Release</h5>
                             </a>
                             <ul>
                                 <li><i class="ti-comments"></i>4 Comments</li>
@@ -662,9 +706,9 @@
                     <div class="card">
                         <img src="img/blog/blog_1.png" class="card-img-top" alt="blog">
                         <div class="card-body">
-                            <a href="blog.shtml">Technology</a> | <span> March 30, 2020</span>
-                            <a href="blog.shtml">
-                                <h5 class="card-title">Seasons form upon days may wont bring given herb sixth</h5>
+                            <a href="https://hub.packtpub.com/5-key-skills-for-web-and-app-developers-to-learn-in-2020/" target="_blank">Development</a> | <span> March 30, 2020</span>
+                            <a href="https://hub.packtpub.com/5-key-skills-for-web-and-app-developers-to-learn-in-2020/" target="_blank">
+                                <h5 class="card-title">5 Key skills for web and app developers to learn in 2020</h5>
                             </a>
                             <ul>
                                 <li><i class="ti-comments"></i>4 Comments</li>
@@ -677,12 +721,11 @@
             <div class="col-sm-6 col-lg-4 col-xl-4">
                 <div class="single-home-blog">
                     <div class="card">
-                        <img src="img/blog/blog_2.png" class="card-img-top" alt="blog">
+                        <img src="img/blog/blog_3.png" class="card-img-top" alt="blog">
                         <div class="card-body">
-                            <a href="blog.shtml">Technology</a> | <span> March 12, 2020</span>
-                            <a href="blog.shtml">
-                                <h5 class="card-title">Very and third him beginning signs hath subdue make
-                                </h5>
+                            <a href="https://aglowiditsolutions.com/blog/node-js-vs-php/" target="_blank">Technology</a> | <span> March 12, 2020</span>
+                            <a href="https://aglowiditsolutions.com/blog/node-js-vs-php/" target="_blank">
+                                <h5 class="card-title">Node Js vs PHP: Comparing Stats, Features and Performance</h5>
                             </a>
                             <ul>
                                 <li><i class="ti-comments"></i>3 Comments</li>

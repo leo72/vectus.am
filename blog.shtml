@@ -35,18 +35,18 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-6 col-lg-4 col-xl-4 d-none d-sm-block d-lg-none">
+            <div class="col-sm-6 col-lg-4 col-xl-4">
                 <div class="single-home-blog">
                     <div class="card">
-                        <img src="img/blog/blog_3.png" class="card-img-top" alt="blog">
+                        <img src="img/blog/blog_2.png" class="card-img-top" alt="blog">
                         <div class="card-body">
-                            <a href="blog.shtml">Art, design</a> | <span> March 30, 2019</span>
-                            <a href="blog.shtml">
-                                <h5 class="card-title">Seasons form upon days may wont bring given herb sixth</h5>
+                            <a href="https://themeisle.com/blog/drupal-9/" target="_blank">Drupal</a> | <span> April 1, 2020</span>
+                            <a href="https://themeisle.com/blog/drupal-9/" target="_blank">
+                                <h5 class="card-title">An Early Look at Drupal 9: What to Expect From the New Release</h5>
                             </a>
                             <ul>
                                 <li><i class="ti-comments"></i>4 Comments</li>
-                                <li><i class="ti-eye"></i>10 View</li>
+                                <li><i class="ti-eye"></i>130 View</li>
                             </ul>
                         </div>
                     </div>
@@ -57,27 +57,9 @@
                     <div class="card">
                         <img src="img/blog/blog_1.png" class="card-img-top" alt="blog">
                         <div class="card-body">
-                            <a href="blog.shtml">Technology</a> | <span> March 30, 2019</span>
-                            <a href="blog.shtml">
-                                <h5 class="card-title">Seasons form upon days may wont bring given herb sixth</h5>
-                            </a>
-                            <ul>
-                                <li><i class="ti-comments"></i>4 Comments</li>
-                                <li><i class="ti-eye"></i>10 View</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-lg-4 col-xl-4">
-                <div class="single-home-blog">
-                    <div class="card">
-                        <img src="img/blog/blog_2.png" class="card-img-top" alt="blog">
-                        <div class="card-body">
-                            <a href="blog.shtml">Technology</a> | <span> March 30, 2019</span>
-                            <a href="blog.shtml">
-                                <h5 class="card-title">Very and third him beginning signs hath subdue make
-                                </h5>
+                            <a href="https://hub.packtpub.com/5-key-skills-for-web-and-app-developers-to-learn-in-2020/" target="_blank">Development</a> | <span> March 30, 2020</span>
+                            <a href="https://hub.packtpub.com/5-key-skills-for-web-and-app-developers-to-learn-in-2020/" target="_blank">
+                                <h5 class="card-title">5 Key skills for web and app developers to learn in 2020</h5>
                             </a>
                             <ul>
                                 <li><i class="ti-comments"></i>4 Comments</li>
@@ -92,9 +74,27 @@
                     <div class="card">
                         <img src="img/blog/blog_3.png" class="card-img-top" alt="blog">
                         <div class="card-body">
-                            <a href="blog.shtml">Technology</a> | <span> March 30, 2019</span>
-                            <a href="blog.shtml">
-                                <h5 class="card-title">Seasons form upon days may wont bring given herb sixth</h5>
+                            <a href="https://aglowiditsolutions.com/blog/node-js-vs-php/" target="_blank">Technology</a> | <span> March 12, 2020</span>
+                            <a href="https://aglowiditsolutions.com/blog/node-js-vs-php/" target="_blank">
+                                <h5 class="card-title">Node Js vs PHP: Comparing Stats, Features and Performance</h5>
+                            </a>
+                            <ul>
+                                <li><i class="ti-comments"></i>3 Comments</li>
+                                <li><i class="ti-eye"></i>43 View</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-6 col-lg-4 col-xl-4">
+                <div class="single-home-blog">
+                    <div class="card">
+                        <img src="img/blog/blog_4.png" class="card-img-top" alt="blog">
+                        <div class="card-body">
+                            <a href="https://aglowiditsolutions.com/blog/drupal-vs-wordpress/" target="_blank">Development</a> | <span> February 21, 2020</span>
+                            <a href="https://aglowiditsolutions.com/blog/drupal-vs-wordpress/" target="_blank">
+                                <h5 class="card-title">Drupal vs WordPress: Choosing Best CMS for your Website</h5>
                             </a>
                             <ul>
                                 <li><i class="ti-comments"></i>4 Comments</li>
@@ -104,40 +104,38 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-</section>
-
-
-<section class="happy_client">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-3 col-sm-6">
-                <div class="single_happy_client">
-                    <img src="img/icon/cap.svg" alt="cap">
-                    <span class="counter">85</span>
-                    <h4>Satisfied <br>client</h4>
+            <div class="col-sm-6 col-lg-4 col-xl-4">
+                <div class="single-home-blog">
+                    <div class="card">
+                        <img src="img/blog/blog_5.png" class="card-img-top" alt="blog">
+                        <div class="card-body">
+                            <a href="https://usabilitygeek.com/web-design-rules-you-should-never-break/" target="_blank">Design</a> | <span> November 22, 2019</span>
+                            <a href="https://usabilitygeek.com/web-design-rules-you-should-never-break/" target="_blank">
+                                <h5 class="card-title">7 Web Design Rules You Should Never Break</h5>
+                            </a>
+                            <ul>
+                                <li><i class="ti-comments"></i>4 Comments</li>
+                                <li><i class="ti-eye"></i>130 View</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6">
-                <div class="single_happy_client">
-                    <img src="img/icon/bag.svg" alt="cap">
-                    <span class="counter">95</span>
-                    <h4> Total<br>project</h4>
-                </div>
-            </div>
-            <div class="col-lg-3 col-sm-6">
-                <div class="single_happy_client">
-                    <img src="img/icon/shirt.svg" alt="cap">
-                    <span class="counter">75</span>
-                    <h4>work<br>completed</h4>
-                </div>
-            </div>
-            <div class="col-lg-3 col-sm-6">
-                <div class="single_happy_client">
-                    <img src="img/icon/cafe.svg" alt="cap">
-                    <span class="counter">95</span>
-                    <h4>work<br>completed</h4>
+            <div class="col-sm-6 col-lg-4 col-xl-4">
+                <div class="single-home-blog">
+                    <div class="card">
+                        <img src="img/blog/blog_6.png" class="card-img-top" alt="blog">
+                        <div class="card-body">
+                            <a href="https://jasonmccreary.me/articles/install-apache-php-mysql-mac-os-x-catalina/" target="_blank">Technology</a> | <span> November 3, 2019</span>
+                            <a href="https://jasonmccreary.me/articles/install-apache-php-mysql-mac-os-x-catalina/" target="_blank">
+                                <h5 class="card-title">Installing Apache, PHP, and MySQL on macOS Catalina</h5>
+                            </a>
+                            <ul>
+                                <li><i class="ti-comments"></i>3 Comments</li>
+                                <li><i class="ti-eye"></i>43 View</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
