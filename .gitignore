@@ -1,2 +1,3 @@
 deploy.php
 php.ini
+error_log
