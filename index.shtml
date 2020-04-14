@@ -537,12 +537,11 @@
                 <div class="single_team_member">
                     <img src="img/team/aram_gevorgyan1.png" alt="">
                     <div class="single_team_text">
-                        <h3><a href="index.shtml#">Aram Gevorgyan</a></h3>
+                        <h3><a target="_blank" href="https://www.drupal.org/u/aramgevorgyan">Aram Gevorgyan</a></h3>
                         <p>Co-Founder, CEO</p>
                         <div class="team_member_social_icon">
-                            <a href="index.shtml#">facebok</a>
-                            <a href="index.shtml#">twitter</a>
-                            <a href="index.shtml#">skype</a>
+                            <a target="_blank" href="https://www.facebook.com/aram1986">Facebok</a>
+                            <a target="_blank" href="https://www.drupal.org/u/aramgevorgyan">Drupal</a>
                         </div>
                     </div>
                 </div>
@@ -551,7 +550,7 @@
                 <div class="single_team_member">
                     <img src="img/team/lev_ananikyan.jpg" alt="">
                     <div class="single_team_text">
-                        <h3><a href="index.shtml#">Lev Ananikyan</a></h3>
+                        <h3><a href="https://www.drupal.org/u/le72">Lev Ananikyan</a></h3>
                         <p>Co-Founder, CTO</p>
                         <div class="team_member_social_icon">
                             <a target="_blank" href="https://www.facebook.com/lev.ananikyan">Facebok</a>
@@ -567,7 +566,7 @@
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.drupal.org/u/arthurbaghdasar">Arthur Baghdasaryan</a>
                         </h3>
-                        <p>Co-Founder & CMO</p>
+                        <p>Co-Founder, CMO</p>
                         <div class="team_member_social_icon">
                             <a target="_blank" href="https://www.facebook.com/arthur910101">Facebok</a>
                             <a target="_blank" href="https://www.linkedin.com/in/arthur910101/">Linkedin</a>
@@ -576,6 +575,20 @@
                     </div>
                 </div>
             </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/david_kalantaryan.jpg" alt="">
+                    <div class="single_team_text">
+                        <h3><a target="_blank" href="mailto:marketing@vectus.am">David Kalantaryan</a></h3>
+                        <p>Sales</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="mailto:marketing@vectus.am">Email</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
                     <img src="img/team/vahan.jpg" alt="">
@@ -584,9 +597,35 @@
                         </h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.facebook.com/arthur910101">Facebok</a>
-                            <a target="_blank" href="https://www.linkedin.com/in/arthur910101/">Linkedin</a>
                             <a target="_blank" href="https://www.drupal.org/u/vah67007">Drupal</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/ashot_m.jpg" alt="">
+                    <div class="single_team_text">
+                        <h3><a target="_blank" href="https://www.drupal.org/u/mashot7">Ashot Martirosyan</a></h3>
+                        <p>Developer</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.drupal.org/u/mashot7">Drupal</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/yura.jpeg" alt="">
+                    <div class="single_team_text">
+                        <h3><a target="_blank" href="https://www.drupal.org/u/yuravanesyan">Yura Avanesyan</a>
+                        </h3>
+                        <p>Developer</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.drupal.org/u/yuravanesyan">Drupal</a>
                         </div>
                     </div>
                 </div>
@@ -599,8 +638,6 @@
                         </h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.facebook.com/">Facebok</a>
-                            <a target="_blank" href="https://www.linkedin.com/in//">Linkedin</a>
                             <a target="_blank" href="https://www.drupal.org/u/hayk91">Drupal</a>
                         </div>
                     </div>
@@ -610,62 +647,17 @@
                 <div class="single_team_member">
                     <img src="img/team/aram_mirzoyan.jpg" alt="">
                     <div class="single_team_text">
-                        <h3><a href="index.shtml#">Aram Mirzoyan</a></h3>
+                        <h3><a target="_blank" href="https://www.drupal.org/u/aram-mirzoyan">Aram Mirzoyan</a></h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.facebook.com/vectus">Facebok</a>
-                            <a target="_blank" href="https://www.linkedin.com/vectus">Linkedin</a>
-                            <a target="_blank" href="https://www.drupal.org/vectus">Drupal</a>
+                            <a target="_blank" href="https://www.drupal.org/u/aram-mirzoyan">Drupal</a>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_team_member">
-                    <img src="img/team/ashot_m.jpg" alt="">
-                    <div class="single_team_text">
-                        <h3><a href="index.shtml#">Ashot Martirosyan</a></h3>
-                        <p>Developer</p>
-                        <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.facebook.com/vectus">Facebok</a>
-                            <a target="_blank" href="https://www.linkedin.com/vectus">Linkedin</a>
-                            <a target="_blank" href="https://www.drupal.org/vectus">Drupal</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_team_member">
-                    <img src="img/team/david_kalantaryan.jpg" alt="">
-                    <div class="single_team_text">
-                        <h3><a href="index.shtml#">David Kalantaryan</a></h3>
-                        <p>Sales</p>
-                        <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.facebook.com/vectus">Facebok</a>
-                            <a target="_blank" href="https://www.linkedin.com/vectus">Linkedin</a>
-                            <a target="_blank" href="https://www.drupal.org/vectus">Drupal</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_team_member">
-                    <img src="img/team_2.png" alt="">
-                    <div class="single_team_text">
-                        <h3><a href="index.shtml#">Next Member</a></h3>
-                        <p>Developer</p>
-                        <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.facebook.com/vectus">Facebok</a>
-                            <a target="_blank" href="https://www.linkedin.com/vectus">Linkedin</a>
-                            <a target="_blank" href="https://www.drupal.org/vectus">Drupal</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-          
         </div>
 
     </div>
