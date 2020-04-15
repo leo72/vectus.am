@@ -530,7 +530,7 @@
 </section>
 
 
-<section class="team_member_section section_padding">
+<section id="team-member" class="team_member_section section_padding">
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-sm-6">
