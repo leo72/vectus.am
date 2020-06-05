@@ -578,19 +578,6 @@
 
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/david_kalantaryan.jpg" alt="">
-                    <div class="single_team_text">
-                        <h3><a target="_blank" href="mailto:marketing@vectus.am">David Kalantaryan</a></h3>
-                        <p>Sales</p>
-                        <div class="team_member_social_icon">
-                            <a target="_blank" href="mailto:marketing@vectus.am">Email</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_team_member">
                     <img src="img/team/vahan.jpg" alt="">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.drupal.org/u/vah67007">Vahan Margaryan</a>
@@ -656,18 +643,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_team_member">
-                    <img src="img/team/aram_mirzoyan.jpg" alt="">
-                    <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.drupal.org/u/aram-mirzoyan">Aram Mirzoyan</a></h3>
-                        <p>Developer</p>
-                        <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.drupal.org/u/aram-mirzoyan">Drupal</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        
 
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
