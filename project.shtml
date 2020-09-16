@@ -40,6 +40,55 @@
                     <div class="row align-items-center">
                         <div class="offset-lg-1 col-lg-4 col-md-6">
                             <div class="single_work_demo">
+                                <h5>www.ukauctionlist.com</h5>
+                                <h3>Buy & Sell Property at Auction</h3>
+                                <p>UK Auction List, where you’ll be able to view the property addresses, full descriptions,
+                                    street view and google map locations for every single lot in our database.
+                                    As well as access to our Auctioneer Directory and Auction Calendar, you will also
+                                    be able to set personalised Property Alerts, and contact all the auctioneers directly
+                                    through our website to arrange a viewing, request a legal pack and register to bid.
+                                </p>
+                                <p>The auction partners are located throughout the UK and hold regular auction sales throughout
+                                    the year, so even if you’re currently tied into a contract with a selling agent,
+                                    you won’t have to wait too long for the next auction date.
+                                </p>
+                                <a href="https://www.ukauctionlist.com" class="btn_3" rel=”nofollow” target="_blank">Visit
+                                    site<span class="flaticon-slim-right"></span></a>
+                            </div>
+                        </div>
+                        <div class="offset-lg-1 col-lg-6 col-md-6">
+                            <div class="demo_img">
+                                <img src="img/demo/ukal.jpg" alt="live24.am">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="single_work">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="demo_img">
+                                <img src="img/demo/bok.jpg" alt="math.sci.am">
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="single_work_demo">
+                                <h5>bok.am</h5>
+                                <h3>Supreme Certifying Committee (SCC RA)</h3>
+                                <p>The site contains all the processes related to the grading system of the Republic of Armenia.
+                                    It is the "One Window" of the actual graduation. With its technical capabilities, the platform
+                                    ensures the constant and constant communication between the authorized body of the grading process
+                                    "scientific community", the smooth exchange of information related to the field. </p>
+                                <a href="https://bok.am" class="btn_3" rel=”nofollow” target="_blank">learn more
+                                    <span
+                                            class="flaticon-slim-right"></span> </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="single_work">
+                    <div class="row align-items-center">
+                        <div class="offset-lg-1 col-lg-4 col-md-6">
+                            <div class="single_work_demo">
                                 <h5>Live24.am</h5>
                                 <h3>Fresh & Live News from Armenia</h3>
                                 <p>Live24.am is an Armenian news portal. It offers not only most actual news in politics
@@ -58,7 +107,7 @@
                         </div>
                         <div class="offset-lg-1 col-lg-6 col-md-6">
                             <div class="demo_img">
-                                <img src="img/demo/live24_1.jpg" alt="demo">
+                                <img src="img/demo/live24_1.jpg" alt="live24.am">
                             </div>
                         </div>
                     </div>
@@ -67,7 +116,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-6">
                             <div class="demo_img">
-                                <img src="img/demo/math_sci_1.jpg" alt="demo">
+                                <img src="img/demo/math_sci_1.jpg" alt="math.sci.am">
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -117,7 +166,7 @@
 					<div class="row align-items-center">
 						<div class="col-lg-6 col-md-6">
 							<div class="demo_img">
-								<img src="img/demo/drupal_am.jpg" alt="demo">
+								<img src="img/demo/drupal_am.jpg" alt="drupal.am">
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-6">
