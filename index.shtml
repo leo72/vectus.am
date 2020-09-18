@@ -603,20 +603,6 @@
                 </div>
             </div>
 
-
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_team_member">
-                    <img src="img/team/yura.jpeg" alt="">
-                    <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.drupal.org/u/yuravanesyan">Yura Avanesyan</a>
-                        </h3>
-                        <p>Developer</p>
-                        <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.drupal.org/u/yuravanesyan">Drupal</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
 			<div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
                     <img src="img/team/hayk_melikyan.png" alt="">
