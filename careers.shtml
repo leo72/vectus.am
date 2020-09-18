@@ -60,14 +60,8 @@
             <h3 class="mb-20 mt-30">Project Manager</h3>
             <div class="row">
                 <div class="col-md-8">
-                    <ul>
-                        <li>You have an understanding of various Project Management methods: Agile, Lean, Kanban, and Waterfall.</li>
-                        <li>You have experience running scrum, sprint planning, sprint review, and sprint retrospective meetings.</li>
-                        <li>You have knowledge of project management tools (JIRA, Confluence, Gantt Charts).</li>
-                        <li>You have developed and written comprehensive project plans, production schedules, budget estimates and similar project artifacts.</li>
-                    </ul>
                     <h4>Job Overview</h4>
-<ul>
+<ul style="list-style: initial;margin-left: 15px;">
     <li>Determine and define project scope and objectives</li>
     <li>Predict resources needed to reach objectives and manage resources in an effective and efficient manner</li>
     <li>Prepare budget based on scope of work and resource requirements</li>
@@ -82,7 +76,7 @@
 
 <h4>Qualifications for Project Manager</h4>
 
-<ul>
+<ul style="list-style: initial;margin-left:15px;">
     <li>Minimum 1-2 years of project management and related experience</li>
     <li>Proven ability to solve problems creatively</li>
     <li>Strong familiarity with project management software tools, methodologies, and best practices</li>
