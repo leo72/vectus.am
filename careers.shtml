@@ -91,19 +91,28 @@
             </div>
             <h3 class="mb-20 mt-30">Junior PHP developer</h3>
             <div class="row">
-                <div class="col-md-8"><p>Requirements here to write....</p>
-                <ul>
-                        <li>You have experience using a content management system (CMS), such as Drupal or WordPress</li>
-                        <li>You have a general understanding of HTML, CSS, JavaScript, and XML.</li>
-                    </ul>
+                <div class="col-md-8">
+                     <h4>Job Overview</h4>
+<ul style="list-style: initial;margin-left:15px;">
+    <li>Experience/Understanding building user interfaces for websites and/or web applications</li>
+<li>Extremely fluent with HTML5/XHTML and CSS</li>
+<li>Experience working with PHP, JavaScript, and jQuery</li>
+<li>Ability to write JavaScript with and without the use of frameworks such as jQuery</li>
+<li>Experience designing and developing responsive design websites</li>
+<li>Comfortable working with debugging tools like Firebug, Chrome inspector, etc.</li>
+<li>Ability to understand CSS changes to have consistent style across platforms and browsers</li>
+<li>Ability to convert comprehensive layout and wireframes into working HTML pages</li>
+<li>PHP frameworks/CMS experience is a plus (Laravel, Symfony, Drupal CMS etc ...)</li>
+    </ul>
+    <strong>Send your CV to <a href="mailto:career@vectus.am">career@vectus.am</a> email.</strong>
                 </div>
                 <div class="col-md-4"><img src="img/career_img_php.jpg" alt="" class="img-fluid"></div>
             </div>
-            <h3 class="mb-20 mt-30">Intern Web Developer</h3>
+            <!--<h3 class="mb-20 mt-30">Intern Web Developer</h3>
             <div class="row">
                 <div class="col-md-8"><p>Requirements here....</p></div>
                 <div class="col-md-4"><img src="img/career_img_intern.jpg" alt="" class="img-fluid"></div>
-            </div>
+            </div>-->
             <div class="hero-app-6 custom-animation3"><img src="img/animate_icon/icon_5.png" alt=""></div>
         </div>
 
