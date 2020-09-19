@@ -57,11 +57,11 @@
 
         <div class="section-top-border z_index">
 
-            <h3 class="mb-20 mt-30">Project Manager</h3>
+            <h3 class="mb-30">Project Manager</h3>
             <div class="row">
                 <div class="col-md-8">
                     <h4>Job Overview</h4>
-<ul style="list-style: initial;margin-left: 15px;">
+<ul style="list-style: initial;margin-left: 15px;" class="mb-30">
     <li>Determine and define project scope and objectives</li>
     <li>Predict resources needed to reach objectives and manage resources in an effective and efficient manner</li>
     <li>Prepare budget based on scope of work and resource requirements</li>
@@ -76,7 +76,7 @@
 
 <h4>Qualifications for Project Manager</h4>
 
-<ul style="list-style: initial;margin-left:15px;">
+<ul style="list-style: initial;margin-left:15px;" class="mb-30">
     <li>Minimum 1-2 years of project management and related experience</li>
     <li>Proven ability to solve problems creatively</li>
     <li>Strong familiarity with project management software tools, methodologies, and best practices</li>
@@ -89,11 +89,11 @@
                 </div>
                 <div class="col-md-4"><img src="img/about_img_05.jpg" alt="" class="img-fluid"></div>
             </div>
-            <h3 class="mb-20 mt-30">Junior PHP developer</h3>
+            <h3 class="mb-30">Junior PHP developer</h3>
             <div class="row">
                 <div class="col-md-8">
                      <h4>Job Overview</h4>
-<ul style="list-style: initial;margin-left:15px;">
+<ul style="list-style: initial;margin-left:15px;" class="mb-30">
     <li>Experience/Understanding building user interfaces for websites and/or web applications</li>
 <li>Extremely fluent with HTML5/XHTML and CSS</li>
 <li>Experience working with PHP, JavaScript, and jQuery</li>
