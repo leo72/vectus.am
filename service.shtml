@@ -87,6 +87,43 @@
     </div>
 </section>
 
+<section class="review_part section_padding">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-lg-5">
+                <div class="section_tittle text-center">
+                    <h2>Your ambition - realised.</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <div class="intro_video_bg why_drupal bm-30">
+                    <div class="intro_video_iner text-center ">
+                        <div class="intro_video_icon">
+                            <a id="play-video_2" class="video-play-button popup-youtube"
+                               href="https://www.youtube.com/watch?v=IPR36uraNwc">
+                                <span class="ti-control-play"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-4">
+                <div class="review_text_item">
+                    <h3>Deliver a digital experience that grows with your brand, spurs customer engagement, and drives conversion.</h3>
+                    <ul class="unordered-list">
+                        <li>Global experiences in any language - with multilingual functionality.</li>
+                        <li>Memorable experiences across platforms with multi-channel reach.</li>
+                        <li>Increase your search rank and reduce your bounce rate with page content that loads blazing fast using Drupal Big Pipe.</li>
+                        <li>Drive team success with easy content authoring tools that put your goals within reach - faster.</li>
+                        <li>An industry leading global security team, ensuring your brand and data are protected on one of the most scrutinized and secure platforms on the web.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="review_part section_padding">
     <div class="container-fluid">

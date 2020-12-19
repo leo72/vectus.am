@@ -54,7 +54,7 @@
     <div class="container box_1170">
 
         <div class="section-top-border z_index">
-            <h3 class="mb-30">Project Manager</h3>
+          <!--  <h3 class="mb-30">Project Manager</h3>
             <div class="row mb-30">
                 <div class="col-md-8">
                     <h4>Job Overview</h4>
@@ -83,17 +83,48 @@
                         <li>Proven ability to complete projects according to outlined scope, budget, and timeline</li>
                         </ul>
                         <strong>Send your CV to <a href="mailto:career@vectus.am">career@vectus.am</a> email.</strong>
-                                    </div>
-                                    <div class="col-md-4"><img src="img/about_img_05.jpg" alt="" class="img-fluid"></div>
-                                </div>
-                                <h3 class="mb-30">Junior PHP developer</h3>
-                                <div class="row">
-                                    <div class="col-md-8">
-                                         <h4>Job Overview</h4>
-                    <ul style="list-style: initial;margin-left:15px;">
+                </div>
+                <div class="col-md-4"><img src="img/about_img_05.jpg" alt="" class="img-fluid"></div>
+            </div>-->
+            <h3 class="mb-30">Sales Manager</h3>
+            <div class="row mb-30">
+                <div class="col-md-8">
+                    <h4>Job Overview</h4>
+                    <p>As an IT sales professional, you'll need to:</p>
+                    <ul style="list-style: initial;margin-left: 15px;" class="mb-15">
+                        <li>Speak to customers, either face to face or over the phone </li>
+                        <li>gain an understanding of customers' diverse and specific business needs and apply product knowledge to meet them </li>
+                        <li>Ensure quality of service by developing a thorough and detailed knowledge of technical specifications and other features of employers' systems and processes, and then documenting them</li>
+                        <li>carry out cold-calling in order to create interest in products and services, generate new business leads and arrange meetings</li>
+                        <li>Identify and develop new business through networking and follow-up courtesy calls</li>
+                        <li>Prepare and deliver presentations and demonstrations of software to customers</li>
+                        <li>Market and promote a portfolio of products by writing and designing sales literature and attending industry events</li>
+                        <li>Maintain awareness and keep abreast of constantly changing software and hardware systems and peripherals (e.g. keyboard and mouse)</li>
+                        <li>Develop effective sales plans using sales methodology</li>
+                        <li>Provide technical advice to customers on all aspects of the installation and use of computer systems and networks, both before and after the sale</li>
+                        <li>Advise on software features and how they can be applied to assist in a variety of contexts such as accounting, manufacturing or other specialist areas</li>
+                        <li>Meet sales targets set by managers and contribute to team targets</li>
+                        <li>Network with existing customers in order to maintain links and promote additional products and upgrades</li>
+                        <li>Handle hardware or software problems and faults, referring on to specialist technical colleagues where appropriate</li>
+                        <li>Respond to tender documents, proposals, reports and supporting literature</li>
+                        <li>Manage workload in order to organise and prioritise daily and weekly goals</li>
+                        <li>Contribute to team or progress meetings to update and inform colleagues.</li>
+                    </ul>
+
+                    <strong>Send your CV to <a href="mailto:career@vectus.am">career@vectus.am</a> email.</strong>
+                </div>
+                <div class="col-md-4"><img src="img/about_img_05.jpg" alt="" class="img-fluid"></div>
+            </div>
+            <h3 class="mb-30">Full stuck web developer</h3>
+            <div class="row">
+                <div class="col-md-8">
+                    <h4>Requirements</h4>
+                    <p>Please apply if you are familiar with the points below:</p>
+                    <ul style="list-style: initial;margin-left:15px;" class="mb-15">
                         <li>Experience/Understanding building user interfaces for websites and/or web applications</li>
                         <li>Extremely fluent with HTML5/XHTML and CSS</li>
                         <li>Experience working with PHP, JavaScript, and jQuery</li>
+                        <li>Object-Oriented Programming Principles</li>
                         <li>Ability to write JavaScript with and without the use of frameworks such as jQuery</li>
                         <li>Experience designing and developing responsive design websites</li>
                         <li>Comfortable working with debugging tools like Firebug, Chrome inspector, etc.</li>
@@ -105,11 +136,14 @@
                 </div>
                 <div class="col-md-4"><img src="img/career_img_php.jpg" alt="" class="img-fluid"></div>
             </div>
-            <!--<h3 class="mb-20 mt-30">Intern Web Developer</h3>
+            <h3 class="mb-20 mt-30 color-6">Intern (Developer)</h3>
             <div class="row">
-                <div class="col-md-8"><p>Requirements here....</p></div>
+                <div class="col-md-8"><p>If you don't have an experience and are looking for an IT company where you can apply your theoretical knowledge drop us a line.
+                    This position is currently unpaid, although a small stipend may become available
+                    depending on future funding decisions. However, the internship will provide excellent
+                    training for anyone considering a future in web development industry.</p></div>
                 <div class="col-md-4"><img src="img/career_img_intern.jpg" alt="" class="img-fluid"></div>
-            </div>-->
+            </div>
             <div class="hero-app-6 custom-animation3"><img src="img/animate_icon/icon_5.png" alt=""></div>
         </div>
 

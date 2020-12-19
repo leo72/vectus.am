@@ -4616,6 +4616,11 @@ ul {
   width: 100%;
 }
 
+.review_part .intro_video_bg.why_drupal {
+  background-image: url("../img/why_drupal.png");
+  height: 460px;
+}
+
 /* line 231, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_review.scss */
 .review_part .intro_video_bg p {
   color: #fff;
@@ -7693,6 +7698,16 @@ h1, h2, h3, h4, h5, h6 {
 /* line 1096, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_elements.scss */
 .mt-30 {
   margin-top: 30px;
+}
+
+/* line 1093, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_elements.scss */
+.mb-15 {
+  margin-bottom: 15px;
+}
+
+/* line 1096, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_elements.scss */
+.mt-15 {
+  margin-top: 15px;
 }
 
 /* line 1099, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_elements.scss */
