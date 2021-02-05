@@ -25,7 +25,7 @@
 
 <section class="contact-section section_padding">
     <div class="container">
-        <div class="d-none d-sm-block mb-5 pb-4">
+        <div class="d-sm-block mb-5 pb-4">
             <div id="map" style="height: 480px; position: relative; overflow: hidden;"></div>
             <script>
                 var map;
