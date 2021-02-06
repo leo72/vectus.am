@@ -35,9 +35,12 @@
                     map = new google.maps.Map(document.getElementById('map'), {
                         center: office,
                         mapTypeId: google.maps.MapTypeId.TERRAIN,
-                        zoom: 13
+                        zoom: 15
                     });
-                    var marker = new google.maps.Marker({position: office, map: map});
+                    var marker = new google.maps.Marker({
+                        position: office,
+                        icon: 'img/icon.svg',
+                        map: map});
                 }
             </script>
             <script async defer
