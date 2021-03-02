@@ -18,15 +18,22 @@
 <h2>Search in all sites</h2>
 <p>Home <span>//</span>tmp//</span>Search Ancestors</p>
 
-<div class="gcse-searchbox"></div>
-
-<div class="gcse-searchresults"></div>
 </div>
 </div>
 </div>
 </div>
 </div>
 </section>
+
+<section>
+	<div class="container">
+	  <div class="gcse-searchbox"></div>
+	  <br>
+
+      <div class="gcse-searchresults"></div>
+    </div>
+</section>
+
 
 
 <!--#include file="inc/footer.html" -->
