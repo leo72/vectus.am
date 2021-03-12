@@ -663,6 +663,49 @@
                 </div>
             </div>
 
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/masha_web.jpg" alt="">
+                    <div class="single_team_text">
+                        <h3><a target="_blank" href="https://www.linkedin.com/in/mariam-tigranyan-1a1067182/">Mariam Tigranyan</a></h3>
+                        <p>Junior Developer</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.drupal.org/u/mariamt">Drupal</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/mariam-tigranyan-1a1067182/">LinkedIn</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/marianna_web.jpg" alt="">
+                    <div class="single_team_text">
+                        <h3><a target="_blank" href="https://www.facebook.com/marianna.karapetyan">Marianna Karapetyan</a></h3>
+                        <p>QA Specialist</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.facebook.com/marianna.karapetyan">Facebook</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/ananikyan/">Linkedin</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/noro_web.jpg" alt="">
+                    <div class="single_team_text">
+                        <h3><a target="_blank" href="https://www.facebook.com/norayr.sargsyan.5437">Norayr Sargsyan</a></h3>
+                        <p>Intern</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.drupal.org/u/norsargsyan">Drupal</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/norayr-sargsyan-9a2b8115b">LinkedIn</a>
+                            <a target="_blank" href="https://www.facebook.com/norayr.sargsyan.5437/">Facebook</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
 
     </div>
