@@ -31,7 +31,7 @@
                 var map;
 
                 function initMap() {
-                    var office = {lat: 40.208128, lng: 44.512802};
+                    var office = {lat: 40.20808251055171, lng: 44.53181192613238};,
                     map = new google.maps.Map(document.getElementById('map'), {
                         center: office,
                         mapTypeId: google.maps.MapTypeId.TERRAIN,
