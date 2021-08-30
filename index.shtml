@@ -590,6 +590,7 @@
                         </h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.linkedin.com/in/vahmargarian/">Linkedin</a>
                             <a target="_blank" href="https://www.drupal.org/u/vah67007">Drupal</a>
                         </div>
                     </div>
@@ -617,6 +618,7 @@
                         </h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.linkedin.com/in/hayk-melikyan/">Linkedin</a>
                             <a target="_blank" href="https://www.drupal.org/u/hayk91">Drupal</a>
                         </div>
                     </div>
@@ -665,13 +667,13 @@
 
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/masha_web.jpg" alt="">
+                    <img src="img/team/Inna.jpg" alt="">
                     <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.linkedin.com/in/mariam-tigranyan-1a1067182/">Mariam Tigranyan</a></h3>
+                        <h3><a target="_blank" href="https://www.linkedin.com/in/isoyaninna/">Inna Isoyan</a></h3>
                         <p>Junior Developer</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.drupal.org/u/mariamt">Drupal</a>
-                            <a target="_blank" href="https://www.linkedin.com/in/mariam-tigranyan-1a1067182/">LinkedIn</a>
+                            <a target="_blank" href="https://www.drupal.org/user/3669950/">Drupal</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/isoyaninna/">LinkedIn</a>
                         </div>
                     </div>
                 </div>
@@ -696,7 +698,7 @@
                     <img src="img/team/noro_web.jpg" alt="">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.facebook.com/norayr.sargsyan.5437">Norayr Sargsyan</a></h3>
-                        <p>Intern</p>
+                        <p>Developer</p>
                         <div class="team_member_social_icon">
                             <a target="_blank" href="https://www.drupal.org/u/norsargsyan">Drupal</a>
                             <a target="_blank" href="https://www.linkedin.com/in/norayr-sargsyan-9a2b8115b">LinkedIn</a>
