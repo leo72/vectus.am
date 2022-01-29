@@ -160,7 +160,7 @@
                                     which differs from others. Now it is one of the most popular medias in Armenia.
                                     You can also find Live24.am news on all social networks.
                                 </p>
-                                <a href="https://www.live24.am" class="btn_3" rel=”nofollow” target="_blank">Visit site<span class="flaticon-slim-right"></span></a>
+                                <a href="https://www.live24.am" class="btn_3" rel="noopener nofollow" target="_blank">Visit site<span class="flaticon-slim-right"></span></a>
                             </div>
                         </div>
                         <div class="offset-lg-1 col-lg-6 col-md-6">
@@ -184,7 +184,7 @@
                                 <p>The Institute of Mathematics of NAS RA originated as the Section for Mathematics and Mechanics, created within the newly formed Armenian Academy of Sciences in 1944.
                                     In  2018 director Rafael Barkhudaryan decided to create not just a simple information web page, he wanted a flexible and easy-to-use tools.
                                     A robust website was created which is an active community portal for Armenian mathematicians. </p>
-                                <a href="http://math.sci.am" class="btn_3" rel=”nofollow” target="_blank">learn more <span
+                                <a href="http://math.sci.am" class="btn_3" rel="nofollow noopener" target="_blank">learn more <span
                                         class="flaticon-slim-right"></span> </a>
                             </div>
                         </div>
@@ -201,7 +201,7 @@
                                     Just when you thought you were all set and ready to go - bam!
                                     You stumble on the complexities of the Chinese Internet and all those regulations that don’t make a lot sense.
                                 The website allows to get in touch with the company, it also contain a blog with useful information.</p>
-                                <a href="https://www.redstarconsultants.com/" class="btn_3" rel=”nofollow” target="_blank">learn more <span class="flaticon-slim-right"></span> </a>
+                                <a href="https://www.redstarconsultants.com/" class="btn_3" rel="noopener nofollow" target="_blank">learn more <span class="flaticon-slim-right"></span> </a>
                             </div>
                         </div>
                         <div class="offset-lg-1 col-lg-6 col-md-6">
@@ -269,7 +269,7 @@
                     <div class="intro_video_iner text-center">
                         <div class="intro_video_icon">
                             <a id="play-video_1" class="video-play-button popup-youtube"
-                               href="https://www.youtube.com/watch?v=97DBxfFMD5A">
+                               href="https://www.youtube.com/watch?v=97DBxfFMD5A" aria-label="Play">
                                 <span class="ti-control-play"></span>
                             </a>
                         </div>
@@ -346,9 +346,9 @@
                                     </div>
                                 </div>
                                 <div class="owl-nav">
-                                    <button type="button" role="presentation" class="owl-prev"><span
+                                    <button type="button" role="presentation" class="owl-prev" aria-label="Prev"><span
                                             class="flaticon-slim-left"></span></button>
-                                    <button type="button" role="presentation" class="owl-next disabled"><span
+                                    <button type="button" role="presentation" class="owl-next disabled" aria-label="Next"><span
                                             class="flaticon-slim-right"></span></button>
                                 </div>
                                 <div class="owl-dots disabled"></div>
@@ -492,22 +492,22 @@
                                     </div>
                                 </div>
                                 <div class="owl-nav disabled">
-                                    <button type="button" role="presentation" class="owl-prev"></button>
-                                    <button type="button" role="presentation" class="owl-next"></button>
+                                    <button type="button" role="presentation" class="owl-prev" aria-label="Prev"></button>
+                                    <button type="button" role="presentation" class="owl-next" aria-label="Next"></button>
                                 </div>
                                 <div class="owl-dots">
-                                    <button role="button" class="owl-dot"><span></span></button>
-                                    <button role="button" class="owl-dot"><span></span></button>
-                                    <button role="button" class="owl-dot"><span></span></button>
-                                    <button role="button" class="owl-dot"><span></span></button>
-                                    <button role="button" class="owl-dot"><span></span></button>
-                                    <button role="button" class="owl-dot"><span></span></button>
-                                    <button role="button" class="owl-dot"><span></span></button>
-                                    <button role="button" class="owl-dot"><span></span></button>
-                                    <button role="button" class="owl-dot"><span></span></button>
-                                    <button role="button" class="owl-dot"><span></span></button>
-                                    <button role="button" class="owl-dot"><span></span></button>
-                                    <button role="button" class="owl-dot active"><span></span></button>
+                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
+                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
+                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
+                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
+                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
+                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
+                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
+                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
+                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
+                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
+                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
+                                    <button role="button" class="owl-dot active" aria-label="dot"><span></span></button>
                                 </div>
                                 <div class="owl-thumbs"></div>
                             </div>
@@ -543,11 +543,11 @@
                 <div class="single_team_member">
                     <img src="img/team/aram_gevorgyan1.webp" alt="Aram Gevorgyan" loading="lazy">
                     <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.drupal.org/u/aramgevorgyan">Aram Gevorgyan</a></h3>
+                        <h3><a target="_blank" href="https://www.drupal.org/u/aramgevorgyan" rel="noreferrer">Aram Gevorgyan</a></h3>
                         <p>Co-Founder, CEO</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.facebook.com/aram1986">Faceobok</a>
-                            <a target="_blank" href="https://www.drupal.org/u/aramgevorgyan">Drupal</a>
+                            <a target="_blank" href="https://www.facebook.com/aram1986" rel="noreferrer">Faceobok</a>
+                            <a target="_blank" href="https://www.drupal.org/u/aramgevorgyan" rel="noreferrer">Drupal</a>
                         </div>
                     </div>
                 </div>
@@ -556,12 +556,12 @@
                 <div class="single_team_member">
                     <img src="img/team/lev_ananikyan.webp" alt="Lev Ananikyan" loading="lazy">
                     <div class="single_team_text">
-                        <h3><a href="https://www.drupal.org/u/le72">Lev Ananikyan</a></h3>
+                        <h3><a href="https://www.drupal.org/u/le72" rel="noreferrer">Lev Ananikyan</a></h3>
                         <p>Co-Founder, CTO</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.facebook.com/lev.ananikyan">Facebook</a>
-                            <a target="_blank" href="https://www.linkedin.com/in/ananikyan/">Linkedin</a>
-                            <a target="_blank" href="https://www.drupal.org/u/le72">Drupal</a>
+                            <a target="_blank" href="https://www.facebook.com/lev.ananikyan" rel="noreferrer">Facebook</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/ananikyan/" rel="noreferrer">Linkedin</a>
+                            <a target="_blank" href="https://www.drupal.org/u/le72" rel="noreferrer">Drupal</a>
                         </div>
                     </div>
                 </div>
@@ -570,13 +570,13 @@
                 <div class="single_team_member">
                     <img src="img/team/arthur_baghdasaryan.webp" alt="Arthur Baghdasaryan" loading="lazy">
                     <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.drupal.org/u/arthurbaghdasar">Arthur Baghdasaryan</a>
+                        <h3><a target="_blank" href="https://www.drupal.org/u/arthurbaghdasar" rel="noreferrer">Arthur Baghdasaryan</a>
                         </h3>
                         <p>Co-Founder, CMO</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.facebook.com/arthur910101">Facebook</a>
-                            <a target="_blank" href="https://www.linkedin.com/in/arthur910101/">Linkedin</a>
-                            <a target="_blank" href="https://www.drupal.org/u/arthurbaghdasar">Drupal</a>
+                            <a target="_blank" href="https://www.facebook.com/arthur910101" rel="noreferrer">Facebook</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/arthur910101/" rel="noreferrer">Linkedin</a>
+                            <a target="_blank" href="https://www.drupal.org/u/arthurbaghdasar" rel="noreferrer">Drupal</a>
                         </div>
                     </div>
                 </div>
@@ -586,12 +586,12 @@
                 <div class="single_team_member">
                     <img src="img/team/vahan.webp" alt="Vahan Margaryan" loading="lazy">
                     <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.drupal.org/u/vah67007">Vahan Margaryan</a>
+                        <h3><a target="_blank" href="https://www.drupal.org/u/vah67007" rel="noreferrer">Vahan Margaryan</a>
                         </h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.linkedin.com/in/vahmargarian/">Linkedin</a>
-                            <a target="_blank" href="https://www.drupal.org/u/vah67007">Drupal</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/vahmargarian/" rel="noreferrer">Linkedin</a>
+                            <a target="_blank" href="https://www.drupal.org/u/vah67007" rel="noreferrer">Drupal</a>
                         </div>
                     </div>
                 </div>
@@ -601,10 +601,10 @@
                 <div class="single_team_member">
                     <img src="img/team/ashot_m.webp" alt="Ashot Martirosyan" loading="lazy">
                     <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.drupal.org/u/mashot7">Ashot Martirosyan</a></h3>
+                        <h3><a target="_blank" href="https://www.drupal.org/u/mashot7" rel="noreferrer">Ashot Martirosyan</a></h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.drupal.org/u/mashot7">Drupal</a>
+                            <a target="_blank" href="https://www.drupal.org/u/mashot7" rel="noreferrer">Drupal</a>
                         </div>
                     </div>
                 </div>
@@ -614,12 +614,12 @@
                 <div class="single_team_member">
                     <img src="img/team/hayk_melikyan.webp" alt="Hayk Melikyan" loading="lazy">
                     <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.drupal.org/u/hayk91">Hayk Melikyan</a>
+                        <h3><a target="_blank" href="https://www.drupal.org/u/hayk91" rel="noreferrer">Hayk Melikyan</a>
                         </h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.linkedin.com/in/hayk-melikyan/">Linkedin</a>
-                            <a target="_blank" href="https://www.drupal.org/u/hayk91">Drupal</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/hayk-melikyan/" rel="noreferrer">Linkedin</a>
+                            <a target="_blank" href="https://www.drupal.org/u/hayk91" rel="noreferrer">Drupal</a>
                         </div>
                     </div>
                 </div>
@@ -628,11 +628,11 @@
                 <div class="single_team_member">
                     <img src="img/team/asatur.webp" alt="Asatur Vardanyan" loading="lazy">
                     <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.drupal.org/u/as_vard">Asatur Vardanyan</a>
+                        <h3><a target="_blank" href="https://www.drupal.org/u/as_vard" rel="noreferrer">Asatur Vardanyan</a>
                         </h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.drupal.org/u/as_vard">Drupal</a>
+                            <a target="_blank" href="https://www.drupal.org/u/as_vard" rel="noreferrer">Drupal</a>
                         </div>
                     </div>
                 </div>
@@ -642,10 +642,10 @@
                 <div class="single_team_member">
                     <img src="img/team/karen.webp" alt="Karen Pirumyan" loading="lazy">
                     <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.drupal.org/u/kpirumyan">Karen Pirumyan</a></h3>
+                        <h3><a target="_blank" href="https://www.drupal.org/u/kpirumyan" rel="noreferrer">Karen Pirumyan</a></h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.drupal.org/u/kpirumyan">Drupal</a>
+                            <a target="_blank" href="https://www.drupal.org/u/kpirumyan" rel="noreferrer">Drupal</a>
                         </div>
                     </div>
                 </div>
@@ -655,11 +655,11 @@
                 <div class="single_team_member">
                     <img src="img/team/ani_muradyan.webp" alt="Ani Muradyan" loading="lazy">
                     <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.linkedin.com/in/ani-muradyan-4b3944142/">Ani Muradyan</a></h3>
+                        <h3><a target="_blank" href="https://www.linkedin.com/in/ani-muradyan-4b3944142/" rel="noreferrer">Ani Muradyan</a></h3>
                         <p>Project Manager</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.linkedin.com/in/ani-muradyan-4b3944142/">LinkedIn</a>
-                            <a target="_blank" href="https://www.facebook.com/muradyanani">Facebook</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/ani-muradyan-4b3944142/" rel="noreferrer">LinkedIn</a>
+                            <a target="_blank" href="https://www.facebook.com/muradyanani" rel="noreferrer">Facebook</a>
                         </div>
                     </div>
                 </div>
@@ -669,11 +669,11 @@
                 <div class="single_team_member">
                     <img src="img/team/Inna.webp" alt="Inna Isoyan" loading="lazy">
                     <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.linkedin.com/in/isoyaninna/">Inna Isoyan</a></h3>
+                        <h3><a target="_blank" href="https://www.linkedin.com/in/isoyaninna/" rel="noreferrer">Inna Isoyan</a></h3>
                         <p>Junior Developer</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.drupal.org/user/3669950/">Drupal</a>
-                            <a target="_blank" href="https://www.linkedin.com/in/isoyaninna/">LinkedIn</a>
+                            <a target="_blank" href="https://www.drupal.org/user/3669950/" rel="noreferrer">Drupal</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/isoyaninna/" rel="noreferrer">LinkedIn</a>
                         </div>
                     </div>
                 </div>
@@ -683,11 +683,11 @@
                 <div class="single_team_member">
                     <img src="img/team/marianna_web.webp" alt="Marianna Karapetyan" loading="lazy">
                     <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.facebook.com/marianna.karapetyan">Marianna Karapetyan</a></h3>
+                        <h3><a target="_blank" href="https://www.facebook.com/marianna.karapetyan" rel="noreferrer">Marianna Karapetyan</a></h3>
                         <p>QA Specialist</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.facebook.com/marianna.karapetyan">Facebook</a>
-                            <a target="_blank" href="https://www.linkedin.com/in/ananikyan/">Linkedin</a>
+                            <a target="_blank" href="https://www.facebook.com/marianna.karapetyan" rel="noreferrer">Facebook</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/ananikyan/" rel="noreferrer">Linkedin</a>
                         </div>
                     </div>
                 </div>
@@ -697,12 +697,12 @@
                 <div class="single_team_member">
                     <img src="img/team/noro_web.webp" alt="Norayr Sargsyan" loading="lazy">
                     <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.facebook.com/norayr.sargsyan.5437">Norayr Sargsyan</a></h3>
+                        <h3><a target="_blank" href="https://www.facebook.com/norayr.sargsyan.5437" rel="noreferrer">Norayr Sargsyan</a></h3>
                         <p>Developer</p>
                         <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.drupal.org/u/norsargsyan">Drupal</a>
-                            <a target="_blank" href="https://www.linkedin.com/in/norayr-sargsyan-9a2b8115b">LinkedIn</a>
-                            <a target="_blank" href="https://www.facebook.com/norayr.sargsyan.5437/">Facebook</a>
+                            <a target="_blank" href="https://www.drupal.org/u/norsargsyan" rel="noreferrer">Drupal</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/norayr-sargsyan-9a2b8115b" rel="noreferrer">LinkedIn</a>
+                            <a target="_blank" href="https://www.facebook.com/norayr.sargsyan.5437/" rel="noreferrer">Facebook</a>
                         </div>
                     </div>
                 </div>
@@ -730,8 +730,8 @@
                     <div class="card">
                         <img src="img/blog/blog_2.webp" class="card-img-top" alt="blog">
                         <div class="card-body">
-                            <a href="https://themeisle.com/blog/drupal-9/" target="_blank">Drupal</a> | <span> April 1, 2020</span>
-                            <a href="https://themeisle.com/blog/drupal-9/" target="_blank">
+                            <a href="https://themeisle.com/blog/drupal-9/" target="_blank" rel="noreferrer">Drupal</a> | <span> April 1, 2020</span>
+                            <a href="https://themeisle.com/blog/drupal-9/" target="_blank" rel="noreferrer">
                                 <h5 class="card-title">An Early Look at Drupal 9: What to Expect From the New Release</h5>
                             </a>
                             <ul>
@@ -747,8 +747,8 @@
                     <div class="card">
                         <img src="img/blog/blog_1.webp" class="card-img-top" alt="blog">
                         <div class="card-body">
-                            <a href="https://hub.packtpub.com/5-key-skills-for-web-and-app-developers-to-learn-in-2020/" target="_blank">Development</a> | <span> March 30, 2020</span>
-                            <a href="https://hub.packtpub.com/5-key-skills-for-web-and-app-developers-to-learn-in-2020/" target="_blank">
+                            <a href="https://hub.packtpub.com/5-key-skills-for-web-and-app-developers-to-learn-in-2020/" target="_blank" rel="noreferrer">Development</a> | <span> March 30, 2020</span>
+                            <a href="https://hub.packtpub.com/5-key-skills-for-web-and-app-developers-to-learn-in-2020/" target="_blank" rel="noreferrer">
                                 <h5 class="card-title">5 Key skills for web and app developers to learn in 2020</h5>
                             </a>
                             <ul>
@@ -764,8 +764,8 @@
                     <div class="card">
                         <img src="img/blog/blog_3.webp" class="card-img-top" alt="blog">
                         <div class="card-body">
-                            <a href="https://aglowiditsolutions.com/blog/node-js-vs-php/" target="_blank">Technology</a> | <span> March 12, 2020</span>
-                            <a href="https://aglowiditsolutions.com/blog/node-js-vs-php/" target="_blank">
+                            <a href="https://aglowiditsolutions.com/blog/node-js-vs-php/" target="_blank" rel="noreferrer">Technology</a> | <span> March 12, 2020</span>
+                            <a href="https://aglowiditsolutions.com/blog/node-js-vs-php/" target="_blank" rel="noreferrer">
                                 <h5 class="card-title">Node Js vs PHP: Comparing Stats, Features and Performance</h5>
                             </a>
                             <ul>
