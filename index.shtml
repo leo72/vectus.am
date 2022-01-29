@@ -165,7 +165,7 @@
                         </div>
                         <div class="offset-lg-1 col-lg-6 col-md-6">
                             <div class="demo_img">
-                                <img src="img/demo/live24_1.jpg" alt="demo">
+                                <img src="img/demo/live24_1.webp" alt="demo">
                             </div>
                         </div>
                     </div>
@@ -174,7 +174,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-6">
                             <div class="demo_img">
-                                <img src="img/demo/math_sci_1.jpg" alt="demo">
+                                <img src="img/demo/math_sci_1.webp" alt="demo">
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -206,7 +206,7 @@
                         </div>
                         <div class="offset-lg-1 col-lg-6 col-md-6">
                             <div class="demo_img">
-                                <img src="img/demo/redstar_1.jpg" alt="demo">
+                                <img src="img/demo/redstar_1.webp" alt="demo">
                             </div>
                         </div>
                     </div>
@@ -728,7 +728,7 @@
             <div class="col-sm-6 col-lg-4 col-xl-4">
                 <div class="single-home-blog">
                     <div class="card">
-                        <img src="img/blog/blog_2.png" class="card-img-top" alt="blog">
+                        <img src="img/blog/blog_2.webp" class="card-img-top" alt="blog">
                         <div class="card-body">
                             <a href="https://themeisle.com/blog/drupal-9/" target="_blank">Drupal</a> | <span> April 1, 2020</span>
                             <a href="https://themeisle.com/blog/drupal-9/" target="_blank">
@@ -745,7 +745,7 @@
             <div class="col-sm-6 col-lg-4 col-xl-4">
                 <div class="single-home-blog">
                     <div class="card">
-                        <img src="img/blog/blog_1.png" class="card-img-top" alt="blog">
+                        <img src="img/blog/blog_1.webp" class="card-img-top" alt="blog">
                         <div class="card-body">
                             <a href="https://hub.packtpub.com/5-key-skills-for-web-and-app-developers-to-learn-in-2020/" target="_blank">Development</a> | <span> March 30, 2020</span>
                             <a href="https://hub.packtpub.com/5-key-skills-for-web-and-app-developers-to-learn-in-2020/" target="_blank">
@@ -762,7 +762,7 @@
             <div class="col-sm-6 col-lg-4 col-xl-4">
                 <div class="single-home-blog">
                     <div class="card">
-                        <img src="img/blog/blog_3.png" class="card-img-top" alt="blog">
+                        <img src="img/blog/blog_3.webp" class="card-img-top" alt="blog">
                         <div class="card-body">
                             <a href="https://aglowiditsolutions.com/blog/node-js-vs-php/" target="_blank">Technology</a> | <span> March 12, 2020</span>
                             <a href="https://aglowiditsolutions.com/blog/node-js-vs-php/" target="_blank">
@@ -779,7 +779,7 @@
             <div class="col-sm-6 col-lg-4 col-xl-4 d-none d-sm-block d-lg-none">
                 <div class="single-home-blog">
                     <div class="card">
-                        <img src="img/blog/blog_3.png" class="card-img-top" alt="blog">
+                        <img src="img/blog/blog_4.webp" class="card-img-top" alt="blog">
                         <div class="card-body">
                             <a href="blog.shtml">Technology</a> | <span> March 10, 2020</span>
                             <a href="blog.shtml">
