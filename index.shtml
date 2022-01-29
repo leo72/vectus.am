@@ -103,8 +103,8 @@
         <div class="row align-items-center">
             <div class="col-lg-5">
                 <div class="about_img">
-                    <img src="img/about_img_1.webp" class="img_1" alt="">
-                    <img src="img/about_img_2.webp" class="img_2" alt="">
+                    <img src="img/about_img_1.webp" class="img_1" alt="About Vectus" loading="lazy">
+                    <img src="img/about_img_2.webp" class="img_2" alt="About Vectus" loading="lazy">
                     <h2>10 Years Working <br>
                         Experience</h2>
                 </div>
@@ -165,7 +165,7 @@
                         </div>
                         <div class="offset-lg-1 col-lg-6 col-md-6">
                             <div class="demo_img">
-                                <img src="img/demo/live24_1.webp" alt="demo">
+                                <img src="img/demo/live24_1.webp" alt="demo" loading="lazy">
                             </div>
                         </div>
                     </div>
@@ -174,7 +174,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-6">
                             <div class="demo_img">
-                                <img src="img/demo/math_sci_1.webp" alt="demo">
+                                <img src="img/demo/math_sci_1.webp" alt="demo" loading="lazy">
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -206,7 +206,7 @@
                         </div>
                         <div class="offset-lg-1 col-lg-6 col-md-6">
                             <div class="demo_img">
-                                <img src="img/demo/redstar_1.webp" alt="demo">
+                                <img src="img/demo/redstar_1.webp" alt="demo" loading="lazy">
                             </div>
                         </div>
                     </div>
@@ -222,28 +222,28 @@
         <div class="row">
             <div class="col-lg-3 col-sm-6">
                 <div class="single_happy_client">
-                    <img src="img/icon/bag.svg" alt="cap">
+                    <img src="img/icon/bag.svg" alt="google stars" loading="lazy">
                     <span class="counter">5</span>
                     <h4>Stars<br>on Google</h4>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
                 <div class="single_happy_client">
-                    <img src="img/icon/cap.svg" alt="cap">
+                    <img src="img/icon/cap.svg" alt="Happy clients" loading="lazy">
                     <span class="counter">12</span>
                     <h4>Satisfied <br>client</h4>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
                 <div class="single_happy_client">
-                    <img src="img/icon/shirt.svg" alt="cap">
+                    <img src="img/icon/shirt.svg" alt="Work completed" loading="lazy">
                     <span class="counter">21</span>
                     <h4>Work<br>completed</h4>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
                 <div class="single_happy_client">
-                    <img src="img/icon/cafe.svg" alt="cap">
+                    <img src="img/icon/cafe.svg" alt="Coffe" loading="lazy">
                     <span class="counter">78</span>
                     <h4>caps coffee<br>every week</h4>
                 </div>
@@ -290,56 +290,56 @@
                                         <div class="owl-item" style="width: 121.667px;">
                                             <div class="owl-thumb-item">
                                                 <div class="slider-thumbnails">
-                                                    <img src="img/client/client_1.png" alt="slideimg" class="image">
+                                                    <img src="img/client/client_1.png" alt="slideimg" class="image" loading="lazy">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="owl-item" style="width: 121.667px;">
                                             <div class="owl-thumb-item">
                                                 <div class="slider-thumbnails">
-                                                    <img src="img/client/client_2.png" alt="slideimg" class="image">
+                                                    <img src="img/client/client_2.png" alt="slideimg" class="image" loading="lazy">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="owl-item" style="width: 121.667px;">
                                             <div class="owl-thumb-item">
                                                 <div class="slider-thumbnails">
-                                                    <img src="img/client/client_3.png" alt="slideimg" class="image">
+                                                    <img src="img/client/client_3.png" alt="slideimg" class="image" loading="lazy">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="owl-item" style="width: 121.667px;">
                                             <div class="owl-thumb-item">
                                                 <div class="slider-thumbnails">
-                                                    <img src="img/client/client_1.png" alt="slideimg" class="image">
+                                                    <img src="img/client/client_1.png" alt="slideimg" class="image" loading="lazy">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="owl-item" style="width: 121.667px;">
                                             <div class="owl-thumb-item">
                                                 <div class="slider-thumbnails">
-                                                    <img src="img/client/client_2.png" alt="slideimg" class="image">
+                                                    <img src="img/client/client_2.png" alt="slideimg" class="image" loading="lazy">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="owl-item" style="width: 121.667px;">
                                             <div class="owl-thumb-item">
                                                 <div class="slider-thumbnails">
-                                                    <img src="img/client/client_3.png" alt="slideimg" class="image">
+                                                    <img src="img/client/client_3.png" alt="slideimg" class="image" loading="lazy">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="owl-item" style="width: 121.667px;">
                                             <div class="owl-thumb-item">
                                                 <div class="slider-thumbnails">
-                                                    <img src="img/client/client_1.png" alt="slideimg" class="image">
+                                                    <img src="img/client/client_1.png" alt="slideimg" class="image" loading="lazy">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="owl-item" style="width: 121.667px;">
                                             <div class="owl-thumb-item">
                                                 <div class="slider-thumbnails">
-                                                    <img src="img/client/client_2.png" alt="slideimg" class="image">
+                                                    <img src="img/client/client_2.png" alt="slideimg" class="image" loading="lazy">
                                                 </div>
                                             </div>
                                         </div>
@@ -370,7 +370,7 @@
                                                     saying
                                                     moveth.
                                                     Fifth shall wont signs, can seasons green days gathered great</p>
-                                                <img src="img/client/logo_math.png" alt="#">
+                                                <img src="img/client/logo_math.png" alt="#" loading="lazy">
                                                 <div class="client_info">
                                                     <h3>Rafael Barkhudaryan</h3>
                                                     <h5>Director, Institute of Mathematics</h5>
@@ -386,7 +386,7 @@
                                                     saying
                                                     moveth.
                                                     Fifth shall wont signs, can seasons green days gathered great</p>
-                                                <img src="img/client/logo_live24.png" alt="#">
+                                                <img src="img/client/logo_live24.png" alt="#" loading="lazy">
                                                 <div class="client_info">
                                                     <h3>Nairi Manucharyan</h3>
                                                     <h5>Owner, Live24.am</h5>
@@ -402,7 +402,7 @@
                                                     saying
                                                     moveth.
                                                     Fifth shall wont signs, can seasons green days gathered great</p>
-                                                <img src="img/client/client_logo.png" alt="#">
+                                                <img src="img/client/client_logo.png" alt="#" loading="lazy">
                                                 <div class="client_info">
                                                     <h3>Daniel E Gilcritst</h3>
                                                     <h5>Manager, Vision</h5>
@@ -418,7 +418,7 @@
                                                     saying
                                                     moveth.
                                                     Fifth shall wont signs, can seasons green days gathered great</p>
-                                                <img src="img/client/client_logo.png" alt="#">
+                                                <img src="img/client/client_logo.png" alt="#" loading="lazy">
                                                 <div class="client_info">
                                                     <h3>Daniel E Gilcritst</h3>
                                                     <h5>Manager, Vision</h5>
@@ -434,7 +434,7 @@
                                                     saying
                                                     moveth.
                                                     Fifth shall wont signs, can seasons green days gathered great</p>
-                                                <img src="img/client/client_logo.png" alt="#">
+                                                <img src="img/client/client_logo.png" alt="#" loading="lazy">
                                                 <div class="client_info">
                                                     <h3>Daniel E Gilcritst</h3>
                                                     <h5>Manager, Vision</h5>
@@ -450,7 +450,7 @@
                                                     saying
                                                     moveth.
                                                     Fifth shall wont signs, can seasons green days gathered great</p>
-                                                <img src="img/client/client_logo.png" alt="#">
+                                                <img src="img/client/client_logo.png" alt="#" loading="lazy">
                                                 <div class="client_info">
                                                     <h3>Daniel E Gilcritst</h3>
                                                     <h5>Manager, Vision</h5>
@@ -466,7 +466,7 @@
                                                     saying
                                                     moveth.
                                                     Fifth shall wont signs, can seasons green days gathered great</p>
-                                                <img src="img/client/client_logo.png" alt="#">
+                                                <img src="img/client/client_logo.png" alt="#" loading="lazy">
                                                 <div class="client_info">
                                                     <h3>Daniel E Gilcritst</h3>
                                                     <h5>Manager, Vision</h5>
@@ -482,7 +482,7 @@
                                                     saying
                                                     moveth.
                                                     Fifth shall wont signs, can seasons green days gathered great</p>
-                                                <img src="img/client/logo_live24.png" alt="#">
+                                                <img src="img/client/logo_live24.png" alt="#" loading="lazy">
                                                 <div class="client_info">
                                                     <h3>Daniel E Gilcritst</h3>
                                                     <h5>Manager, Vision</h5>
