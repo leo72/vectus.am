@@ -346,10 +346,6 @@
                                     </div>
                                 </div>
                                 <div class="owl-nav">
-                                    <button type="button" role="presentation" class="owl-prev" aria-label="Prev"><span
-                                            class="flaticon-slim-left">Prev</span></button>
-                                    <button type="button" role="presentation" class="owl-next disabled" aria-label="Next"><span
-                                            class="flaticon-slim-right">Next</span></button>
                                 </div>
                                 <div class="owl-dots disabled"></div>
                                 <div class="owl-thumbs"></div>
