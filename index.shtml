@@ -541,7 +541,7 @@
         <div class="row">
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/aram_gevorgyan1.webp" alt="">
+                    <img src="img/team/aram_gevorgyan1.webp" alt="Aram Gevorgyan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.drupal.org/u/aramgevorgyan">Aram Gevorgyan</a></h3>
                         <p>Co-Founder, CEO</p>
@@ -554,7 +554,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/lev_ananikyan.webp" alt="">
+                    <img src="img/team/lev_ananikyan.webp" alt="Lev Ananikyan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a href="https://www.drupal.org/u/le72">Lev Ananikyan</a></h3>
                         <p>Co-Founder, CTO</p>
@@ -568,7 +568,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/arthur_baghdasaryan.webp" alt="">
+                    <img src="img/team/arthur_baghdasaryan.webp" alt="Arthur Baghdasaryan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.drupal.org/u/arthurbaghdasar">Arthur Baghdasaryan</a>
                         </h3>
@@ -584,7 +584,7 @@
 
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/vahan.webp" alt="">
+                    <img src="img/team/vahan.webp" alt="Vahan Margaryan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.drupal.org/u/vah67007">Vahan Margaryan</a>
                         </h3>
@@ -599,7 +599,7 @@
 
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/ashot_m.webp" alt="">
+                    <img src="img/team/ashot_m.webp" alt="Ashot Martirosyan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.drupal.org/u/mashot7">Ashot Martirosyan</a></h3>
                         <p>Developer</p>
@@ -612,7 +612,7 @@
 
 			<div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/hayk_melikyan.webp" alt="">
+                    <img src="img/team/hayk_melikyan.webp" alt="Hayk Melikyan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.drupal.org/u/hayk91">Hayk Melikyan</a>
                         </h3>
@@ -626,7 +626,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/asatur.webp" alt="">
+                    <img src="img/team/asatur.webp" alt="Asatur Vardanyan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.drupal.org/u/as_vard">Asatur Vardanyan</a>
                         </h3>
@@ -640,7 +640,7 @@
 
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/karen.webp" alt="">
+                    <img src="img/team/karen.webp" alt="Karen Pirumyan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.drupal.org/u/kpirumyan">Karen Pirumyan</a></h3>
                         <p>Developer</p>
@@ -653,7 +653,7 @@
 
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/ani_muradyan.webp" alt="">
+                    <img src="img/team/ani_muradyan.webp" alt="Ani Muradyan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.linkedin.com/in/ani-muradyan-4b3944142/">Ani Muradyan</a></h3>
                         <p>Project Manager</p>
@@ -667,7 +667,7 @@
 
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/Inna.webp" alt="">
+                    <img src="img/team/Inna.webp" alt="Inna Isoyan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.linkedin.com/in/isoyaninna/">Inna Isoyan</a></h3>
                         <p>Junior Developer</p>
@@ -681,7 +681,7 @@
 
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/marianna_web.webp" alt="">
+                    <img src="img/team/marianna_web.webp" alt="Marianna Karapetyan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.facebook.com/marianna.karapetyan">Marianna Karapetyan</a></h3>
                         <p>QA Specialist</p>
@@ -695,7 +695,7 @@
 
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/noro_web.webp" alt="">
+                    <img src="img/team/noro_web.webp" alt="Norayr Sargsyan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.facebook.com/norayr.sargsyan.5437">Norayr Sargsyan</a></h3>
                         <p>Developer</p>
