@@ -495,20 +495,6 @@
                                     <button type="button" role="presentation" class="owl-prev" aria-label="Prev"></button>
                                     <button type="button" role="presentation" class="owl-next" aria-label="Next"></button>
                                 </div>
-                                <div class="owl-dots">
-                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
-                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
-                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
-                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
-                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
-                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
-                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
-                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
-                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
-                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
-                                    <button role="button" class="owl-dot" aria-label="dot"><span></span></button>
-                                    <button role="button" class="owl-dot active" aria-label="dot"><span></span></button>
-                                </div>
                                 <div class="owl-thumbs"></div>
                             </div>
                         </div>
