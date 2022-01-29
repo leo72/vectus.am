@@ -22,7 +22,7 @@
                 <div class="banner_bg">
                     <picture>
                         <source media="(max-width: 990px)" srcset="img/banner_img2-500w.webp">
-                        <source media="(min-width: 1500px)" srcset="img/banner_img2-big.webp">
+                        <source media="(min-width: 1500px)" srcset="img/banner_img2-big_s.webp">
                         <source media="(min-width: 990px)" srcset="img/banner_img2.webp">
                         <img src="img/banner_img2.png" alt="banner">
                     </picture>
