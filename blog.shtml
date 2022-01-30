@@ -38,7 +38,24 @@
             <div class="col-sm-6 col-lg-4 col-xl-4">
                 <div class="single-home-blog">
                     <div class="card">
-                        <img src="img/blog/blog_2.png" class="card-img-top" alt="blog">
+                        <img src="img/blog/blog_7.webp" class="card-img-top" alt="blog">
+                        <div class="card-body">
+                            <a href="https://themeisle.com/blog/drupal-9/" target="_blank">Managment</a> | <span> February 1, 2022</span>
+                            <a href="https://themeisle.com/blog/drupal-9/" target="_blank">
+                                <h5 class="card-title">How to Boost Productivity at Work by 73 Percent</h5>
+                            </a>
+                            <ul>
+                                <li><i class="ti-comments"></i>2 Comments</li>
+                                <li><i class="ti-eye"></i>30 View</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-4 col-xl-4">
+                <div class="single-home-blog">
+                    <div class="card">
+                        <img src="img/blog/blog_2.webp" class="card-img-top" alt="blog">
                         <div class="card-body">
                             <a href="https://themeisle.com/blog/drupal-9/" target="_blank">Drupal</a> | <span> April 1, 2020</span>
                             <a href="https://themeisle.com/blog/drupal-9/" target="_blank">
@@ -55,7 +72,7 @@
             <div class="col-sm-6 col-lg-4 col-xl-4">
                 <div class="single-home-blog">
                     <div class="card">
-                        <img src="img/blog/blog_1.png" class="card-img-top" alt="blog">
+                        <img src="img/blog/blog_1.webp" class="card-img-top" alt="blog">
                         <div class="card-body">
                             <a href="https://hub.packtpub.com/5-key-skills-for-web-and-app-developers-to-learn-in-2020/" target="_blank">Development</a> | <span> March 30, 2020</span>
                             <a href="https://hub.packtpub.com/5-key-skills-for-web-and-app-developers-to-learn-in-2020/" target="_blank">
@@ -72,7 +89,7 @@
             <div class="col-sm-6 col-lg-4 col-xl-4">
                 <div class="single-home-blog">
                     <div class="card">
-                        <img src="img/blog/blog_3.png" class="card-img-top" alt="blog">
+                        <img src="img/blog/blog_3.webp" class="card-img-top" alt="blog">
                         <div class="card-body">
                             <a href="https://aglowiditsolutions.com/blog/node-js-vs-php/" target="_blank">Technology</a> | <span> March 12, 2020</span>
                             <a href="https://aglowiditsolutions.com/blog/node-js-vs-php/" target="_blank">
@@ -90,7 +107,7 @@
             <div class="col-sm-6 col-lg-4 col-xl-4">
                 <div class="single-home-blog">
                     <div class="card">
-                        <img src="img/blog/blog_4.png" class="card-img-top" alt="blog">
+                        <img src="img/blog/blog_4.webp" class="card-img-top" alt="blog">
                         <div class="card-body">
                             <a href="https://aglowiditsolutions.com/blog/drupal-vs-wordpress/" target="_blank">Development</a> | <span> February 21, 2020</span>
                             <a href="https://aglowiditsolutions.com/blog/drupal-vs-wordpress/" target="_blank">
@@ -107,7 +124,7 @@
             <div class="col-sm-6 col-lg-4 col-xl-4">
                 <div class="single-home-blog">
                     <div class="card">
-                        <img src="img/blog/blog_5.png" class="card-img-top" alt="blog">
+                        <img src="img/blog/blog_5.webp" class="card-img-top" alt="blog">
                         <div class="card-body">
                             <a href="https://usabilitygeek.com/web-design-rules-you-should-never-break/" target="_blank">Design</a> | <span> November 22, 2019</span>
                             <a href="https://usabilitygeek.com/web-design-rules-you-should-never-break/" target="_blank">
@@ -124,7 +141,7 @@
             <div class="col-sm-6 col-lg-4 col-xl-4">
                 <div class="single-home-blog">
                     <div class="card">
-                        <img src="img/blog/blog_6.png" class="card-img-top" alt="blog">
+                        <img src="img/blog/blog_6.webp" class="card-img-top" alt="blog">
                         <div class="card-body">
                             <a href="https://jasonmccreary.me/articles/install-apache-php-mysql-mac-os-x-catalina/" target="_blank">Technology</a> | <span> November 3, 2019</span>
                             <a href="https://jasonmccreary.me/articles/install-apache-php-mysql-mac-os-x-catalina/" target="_blank">
