@@ -575,19 +575,6 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_team_member">
-                    <img src="img/team/ashot_m.webp" alt="Ashot Martirosyan" loading="lazy">
-                    <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.drupal.org/u/mashot7" rel="noreferrer">Ashot Martirosyan</a></h3>
-                        <p>Developer</p>
-                        <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.drupal.org/u/mashot7" rel="noreferrer">Drupal</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
 			<div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
                     <img src="img/team/hayk_melikyan.webp" alt="Hayk Melikyan" loading="lazy">
@@ -598,19 +585,6 @@
                         <div class="team_member_social_icon">
                             <a target="_blank" href="https://www.linkedin.com/in/hayk-melikyan/" rel="noreferrer">Linkedin</a>
                             <a target="_blank" href="https://www.drupal.org/u/hayk91" rel="noreferrer">Drupal</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="single_team_member">
-                    <img src="img/team/asatur.webp" alt="Asatur Vardanyan" loading="lazy">
-                    <div class="single_team_text">
-                        <h3><a target="_blank" href="https://www.drupal.org/u/as_vard" rel="noreferrer">Asatur Vardanyan</a>
-                        </h3>
-                        <p>Developer</p>
-                        <div class="team_member_social_icon">
-                            <a target="_blank" href="https://www.drupal.org/u/as_vard" rel="noreferrer">Drupal</a>
                         </div>
                     </div>
                 </div>
