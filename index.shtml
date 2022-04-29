@@ -577,7 +577,7 @@
 
 			<div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/hayk_melikyan.webp" alt="Hayk Melikyan" loading="lazy">
+                    <img src="img/team/hayk_m.webp" alt="Hayk Melikyan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.drupal.org/u/hayk91" rel="noreferrer">Hayk Melikyan</a>
                         </h3>
@@ -605,7 +605,7 @@
 
             <div class="col-lg-4 col-sm-6">
                 <div class="single_team_member">
-                    <img src="img/team/ani_muradyan.webp" alt="Ani Muradyan" loading="lazy">
+                    <img src="img/team/ani_m.webp" alt="Ani Muradyan" loading="lazy">
                     <div class="single_team_text">
                         <h3><a target="_blank" href="https://www.linkedin.com/in/ani-muradyan-4b3944142/" rel="noreferrer">Ani Muradyan</a></h3>
                         <p>Project Manager</p>
@@ -655,6 +655,87 @@
                             <a target="_blank" href="https://www.drupal.org/u/norsargsyan" rel="noreferrer">Drupal</a>
                             <a target="_blank" href="https://www.linkedin.com/in/norayr-sargsyan-9a2b8115b" rel="noreferrer">LinkedIn</a>
                             <a target="_blank" href="https://www.facebook.com/norayr.sargsyan.5437/" rel="noreferrer">Facebook</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/voskan.webp" alt="Voskan Baldryan" loading="lazy">
+                    <div class="single_team_text">
+                        <h3><a target="_blank" href="https://www.linkedin.com/in/voskan-baldryan-10b812204" rel="noreferrer">Voskan Baldryan</a></h3>
+                        <p>Junior Developer</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.drupal.org/user/3671572" rel="noreferrer">Drupal</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/voskan-baldryan-10b812204" rel="noreferrer">LinkedIn</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/artyom.webp" alt="Artyom Hovasapyan" loading="lazy">
+                    <div class="single_team_text">
+                        <h3><a target="_blank" href="https://www.linkedin.com/in/artyom-hovasapyan-5334a4219/" rel="noreferrer">Artyom Hovasapyan</a></h3>
+                        <p>Junior Developer</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.drupal.org/user/3715685" rel="noreferrer">Drupal</a>
+                            <a target="_blank" href=" https://www.linkedin.com/in/artyom-hovasapyan-5334a4219/" rel="noreferrer">LinkedIn</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/sergey_gab.webp" alt="Sergey Gabrielyan" loading="lazy">
+                    <div class="single_team_text">
+                        <h3><a target="_blank" href="https://www.drupal.org/u/sergey-gabrielyan" rel="noreferrer">Sergey Gabrielyan</a></h3>
+                        <p>Junior Developer</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.drupal.org/u/sergey-gabrielyan" rel="noreferrer">Drupal</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/zara_h.webp" alt="Zara Harutyunyan" loading="lazy">
+                    <div class="single_team_text">
+                        <h3><a target="_blank" href="https://www.linkedin.com/in/zara-harutyunyan-61a174208/" rel="noreferrer">Zara Harutyunyan</a></h3>
+                        <p>Junior Developer</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.drupal.org/u/zara-harutyunyan" rel="noreferrer">Drupal</a>
+                            <a target="_blank" href="https://www.linkedin.com/in/zara-harutyunyan-61a174208/" rel="noreferrer">LinkedIn</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/gohar_p.webp" alt="Gohar Petrosyan" loading="lazy">
+                    <div class="single_team_text">
+                        <h3><a target="_blank" href="https://www.linkedin.com/in/gohar-petrosyan/" rel="noreferrer">Gohar Petrosyan</a></h3>
+                        <p>Business Growth Manager</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.linkedin.com/in/gohar-petrosyan/" rel="noreferrer">LinkedIn</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="single_team_member">
+                    <img src="img/team/vahe_n.webp" alt="Vahe Nersisyan" loading="lazy">
+                    <div class="single_team_text">
+                        <h3><a target="_blank" href="https://www.linkedin.com/in/vahe-nersisyan-265040226/" rel="noreferrer">Vahe Nersisyan</a></h3>
+                        <p>React.js/Next.js Junior Developer</p>
+                        <div class="team_member_social_icon">
+                            <a target="_blank" href="https://www.linkedin.com/in/vahe-nersisyan-265040226/" rel="noreferrer">LinkedIn</a>
                         </div>
                     </div>
                 </div>
