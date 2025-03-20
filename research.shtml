@@ -62,19 +62,36 @@
             <h3 class="mb-30">What we do?</h3>
             <div class="row">
                 <div class="col-md-8">
-                    <p>Our commitment to innovation goes well beyond delivering cutting-edge web development.
-                        We are actively engaged in research across three pivotal directions, blending practical applications with groundbreaking theoretical insights. Our work spans materials science, theoretical research in quantum computing, and the development of AI-driven mathematical models.</p>
+                    <p>Our commitment to innovation transcends conventional boundaries, blending cutting-edge
+                        web development with expansive research initiatives that drive scientific and technological progress.
+                        We actively support research and innovation activities through a multifaceted program that spans several
+                        pivotal directions: materials science, theoretical research in quantum computing, AI-driven mathematical models,
+                        and the provision and installation of specialized scientific and medical equipment.</p>
 
-                    <p>Our efforts in materials science focus on creating smarter, more resilient systems that address real-world challenges. By exploring novel materials and innovative design methodologies, we contribute to a deeper understanding of complex physical phenomena, laying the foundation for advances in energy, healthcare,
-                        and environmental monitoring. We are proud to collaborate with both Armenian and international research teams, ensuring that our solutions are informed by diverse perspectives and expertise.
+                    <p>Our work in materials science is dedicated to developing smarter, more resilient systems that address
+                        real-world challenges. By exploring novel materials and innovative design methodologies,
+                        we contribute to a deeper understanding of complex physical phenomena, laying the foundation
+                        for advances in energy, healthcare, and environmental monitoring. In support of our research partners,
+                        we finance projects that not only yield innovative and effective research results but also supply research
+                        institutions with the necessary scientific and medical equipment, ensuring they have the best tools at
+                        their disposal.</p>
+
+                    <p>In parallel, our theoretical research in quantum computing is paving the way for next-generation computational breakthroughs.
+                        By investigating quantum algorithms and pioneering computational models, we aim to solve complex problems
+                        that have long challenged traditional approaches. Our strong collaborations with renowned academic and research
+                        institutions—both locally and internationally—allow us to remain at the forefront of this rapidly evolving field.</p>
+
+                    <p>Complementing these initiatives, our work in AI and advanced mathematical frameworks is transforming data analysis and
+                        decision-making across multiple sectors. Leveraging sophisticated machine learning techniques and innovative mathematical
+                        modeling, we develop tools capable of processing vast amounts of data to deliver reliable insights and flexible solutions.
                     </p>
-                    <p>
-                    In parallel, our theoretical research in quantum computing is paving the way for next-generation computational breakthroughs. By exploring quantum algorithms and innovative computational models, we aim to solve complex problems that have long challenged traditional approaches. Our partnerships with renowned academic and research institutions help us stay at the forefront of this rapidly evolving field.
-                    </p>
-                    <p>
-                        Complementing these areas, our work in AI and advanced mathematical frameworks is transforming data analysis and decision-making. Leveraging sophisticated machine learning techniques and innovative mathematical modeling, we develop tools capable
-                        of processing vast amounts of data and delivering actionable insights across multiple sectors.
-                    At <b>Vectus</b>, we believe that the fusion of practical technology with advanced scientific research is key to driving future innovations. Our collaborative spirit and multidisciplinary approach enable us to lead in both digital innovation and scientific discovery, reinforcing our commitment to excellence in every field we pursue.
+
+                    <p>Moreover, our comprehensive program goes beyond research to actively engage the global scientific community.
+                        We organize events that bring together researchers from different countries and disciplines, forging links with the world’s
+                        leading research centers. The participation of expert consultants at these events helps attract high-class specialists
+                        to Armenia, further expanding the horizons of research and innovation.</p>
+
+                    <p>By integrating advanced scientific research with practical solutions—including the installation of specialized scientific and medical equipment—<b>Vectus</b> offers an unprecedented environment for the innovative growth of academic and research potential. Our multidisciplinary approach, robust partnerships, and unwavering commitment to excellence drive both digital innovation and scientific discovery, positioning us as a leader in the global research community.
                     </p>
                 </div>
                 <div class="col-md-4"><img src="img/about_img_02.jpeg" alt="" class="img-fluid"></div>
